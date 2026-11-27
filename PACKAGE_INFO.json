@@ -6,7 +6,7 @@
   "public_url": "https://github.com/mannleh/PBAFE-pbae",
   "availability": "publicly deposited at https://github.com/mannleh/PBAFE-pbae",
   "created_utc": "2026-11-27T06:44:41.518106+00:00",
-  "python": "3.11",
+  "python": "3.12",
   "go": "1.25",
   "included_experiments": [
     "pba_v3",
@@ -44,7 +44,7 @@
     "E6 network wording standardized to an analytic sequential-request RTT/RTO model.",
     "Absolute workspace paths replaced with package-root-relative paths."
   ],
-  "file_count": 1026,
-  "manifested_file_count": 1025,
-  "payload_uncompressed_bytes_excluding_info": 1034287549
+  "file_count": 1027,
+  "manifested_file_count": 1026,
+  "payload_uncompressed_bytes_excluding_info": 1034290483
 }

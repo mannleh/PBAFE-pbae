@@ -14,11 +14,12 @@ Status: self-contained anonymized package publicly deposited at the repository a
 - `data/`: processed UNSW-NB15 and Edge-IIoTset subsets with manifests and SHA-256 hashes. Raw multi-GB source corpora are not redistributed.
 - `MANIFEST_SHA256.txt`: SHA-256 for every packaged file except the manifest itself.
 - `PACKAGE_INFO.json`: scope, exclusions, environment, and curation notes.
+- `DATA_LICENSES.md`: dataset citations, license links, reuse conditions, and preprocessing changes.
 - `verify_package.py`: hash check plus core protocol/VREFL smoke tests.
 
 ## Environment
 
-- Python 3.11 (tested with 3.11.9)
+- Python 3.12 (validated with 3.12.15)
 - numpy 2.5.2, pandas 3.0.5, scikit-learn 1.9.0, cryptography 50.0.2, psutil
 - Go 1.25 (for the independent E8 verifier)
 
