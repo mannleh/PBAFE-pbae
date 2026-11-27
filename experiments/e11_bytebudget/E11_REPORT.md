@@ -26,9 +26,10 @@ repeated under a common byte budget.
 
 ## Result
 
-Cumulative traffic is equalised to within 0.6% (0.729–0.737 MB per run; target
-60 x 12,327 B = 0.740 MB). Within that common budget the arms inspect different
-numbers of records, because response size depends on the outcome:
+Arm-level mean traffic spans 0.729–0.740 MB and differs from the 0.73962 MB target
+by at most 1.4%; individual runs span 0.727–0.740 MB (maximum deviation 1.7%).
+Within that common budget the arms inspect different numbers of records, because
+response size depends on the outcome:
 
 | Scenario | Arm | TDR | 95% CI | MB/run | records/round |
 |---|---|---|---|---|---|
@@ -41,7 +42,7 @@ numbers of records, because response size depends on the outcome:
 | recovery | neutral | 0.9356 | [0.896, 0.967] | 0.733 | 3.82 |
 | integrity_only | neutral | 0.9125 | [0.853, 0.961] | 0.733 | 3.77 |
 
-Paired differences in the mixed scenario (97.5% family CI for the primary pair):
+Paired differences in the mixed scenario (95% CI):
 
 - neutral − uniform: TDR **+0.7663** [0.723, 0.804]; bytes −4,234 B (−0.57%);
   +40.85 inspected records over 60 rounds (+0.68 per round).

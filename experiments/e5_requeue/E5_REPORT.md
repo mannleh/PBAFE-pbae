@@ -25,7 +25,7 @@ While evidence is withheld (rounds 21–40), any selected client whose opening i
 
 `withholding_recovery` (no integrity attacks): applied violations 0 in every arm; neutral 3.5 compliant rejections / F1 0.747, separated 7.1 / 0.746, adaptive 13.35 / 0.742; requeue leaves all three unchanged and re-entry delay already 0.
 
-Paired (97.5% CI): requeue − control on `mixed_recovery` → applied violations **+0.25 [+0.10, +0.45]**, discarded fraction **−0.0042 [−0.0075, −0.0017]**, F1 **−0.0002 [−0.0009, +0.0005]**, compliant rejections 0.
+Paired (95% CI): requeue − control on `mixed_recovery` → applied violations **+0.25 [+0.10, +0.45]**, discarded fraction **−0.0042 [−0.0075, −0.0017]**, F1 **−0.0002 [−0.0009, +0.0005]**, compliant rejections 0.
 
 ## 3. Reading
 

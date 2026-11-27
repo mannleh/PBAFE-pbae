@@ -1,6 +1,6 @@
-# E1 — Cross-dataset replication on Edge-IIoTset (R1-3 / R3-4)
+# E1 pilot — Cross-dataset replication on Edge-IIoTset (R1-3 / R3-4)
 
-Status: COMPLETED. 600 matched-seed runs (3 Dirichlet partitions × 20 seeds × 2 scenarios × 5 arms).
+Status: PILOT COMPLETED. 600 matched-seed runs (3 Dirichlet partitions × 20 seeds × 2 scenarios × 5 arms). This report documents the pilot only; manuscript claims use the E1-L 7,500-run study summarized by `summarize_e1_large.py` and reported in new Section 7.8.
 Corpus: Edge-IIoTset, `DNN-EdgeIIoT-dataset.csv` (Ferrag et al.; IEEE DataPort DOI 10.21227/mbc1-1h68).
 Code: `experiments/e1_edge/prepare_edgeiiot.py`, `run_e1_edge.py`, `summarize_e1.py`.
 The frozen PBA/3 application machinery (`pba_v3/v6_bridge.run_cell`, `v5_response`, `flcore`,
