@@ -2,8 +2,8 @@
   "preprocessing_version": "PBA2/UNSW-train-only-v2",
   "source": "UNSW Research official SharePoint dataset folder",
   "source_page": "https://research.unsw.edu.au/projects/unsw-nb15-dataset",
-  "source_train": "C:\\Users\\L-wangxiujun\\Desktop\\els-cas-templates\\data\\unsw_official_raw\\UNSW_NB15_training-set.csv",
-  "source_test": "C:\\Users\\L-wangxiujun\\Desktop\\els-cas-templates\\data\\unsw_official_raw\\UNSW_NB15_testing-set.csv",
+  "source_train": "UNSW_NB15_training-set.csv",
+  "source_test": "UNSW_NB15_testing-set.csv",
   "source_sha256": {
     "train": "bec7dd5ec88dc2a0ccc7a07879d338395ed7421750f675fd0339e07dfe0648fa",
     "test": "734fe6642edf758f7c94d7d9149426b49d202fe8e7bf0bef47392489c3c0a559"

@@ -44,6 +44,7 @@
     "E6 network wording standardized to an analytic sequential-request RTT/RTO model.",
     "Absolute workspace paths replaced with package-root-relative paths."
   ],
-  "file_count": 1025,
-  "payload_uncompressed_bytes_excluding_info": 1034156598
+  "file_count": 1026,
+  "manifested_file_count": 1025,
+  "payload_uncompressed_bytes_excluding_info": 1034287549
 }
