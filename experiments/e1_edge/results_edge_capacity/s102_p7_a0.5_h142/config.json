@@ -1,0 +1,54 @@
+{
+  "corpus": "Edge-IIoTset",
+  "sample_seed": 102,
+  "partition_seed": 7,
+  "alpha": 0.5,
+  "data_dir": ".\\data\\edgeiiot_main\\sample_s102\\a0.5_p7",
+  "out": ".\\experiments\\e1_edge\\results_edge_capacity\\s102_p7_a0.5_h142",
+  "seed_start": 430001,
+  "seeds": 10,
+  "rounds": 60,
+  "budget": 3,
+  "scenarios": [
+    "mixed_recovery",
+    "withholding_recovery"
+  ],
+  "methods": [
+    "noaudit",
+    "uniform",
+    "adaptive",
+    "neutral",
+    "separated"
+  ],
+  "dropped_clients": [
+    19,
+    24
+  ],
+  "features": 42,
+  "hidden": 142,
+  "model_params": 6249,
+  "train_rows": 200000,
+  "test_rows": 50000,
+  "client_size_stats": {
+    "min": 218,
+    "p5": 248,
+    "median": 3435.5,
+    "p95": 23777,
+    "max": 25531
+  },
+  "clients_below_128": 0,
+  "rng_design": "model_seed=training_seed+900000; selection_seed=training_seed+800000",
+  "data_sha256": {
+    "npz": "da97234193b063912f686b6048b14df018568f541bb82de2bcfdc5615b7f225a",
+    "client_indices": "c98f3a4a16abaa0c5512b82102b5610309d92994cda0a367fb7cf3530f25f9f6",
+    "sample_manifest": "251673c19c24639e555d92c8e764d3f9ca34a1c508ef7c7abc15f979232a7341"
+  },
+  "source_sha256": {
+    ".\\experiments\\e1_edge\\run_edge_capacity.py": "2ff7b1825f6db086cefabd10490cc94dabcaf481269a28998168b147ac2ea135",
+    ".\\experiments\\pba_v3\\v6_bridge.py": "eef5648afddc315f76f59268f2c460c9cdac60c6d96bce8856fce19709ed2893",
+    ".\\experiments\\pba_v3\\v5_response.py": "b3c0eb52258fc958d4a9edb75345f111db06d2e07e1fa18ed9a00c4be292de84",
+    ".\\experiments\\pba_v3\\run_c_consequence.py": "f8dbdead44ea71d15c24ba6bb71eee88f50b15df5bbbf6307b32cd4cc70ea1fb"
+  },
+  "numpy_version": "2.5.2",
+  "status": "RUNNING"
+}

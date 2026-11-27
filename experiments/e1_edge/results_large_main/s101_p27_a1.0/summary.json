@@ -1,0 +1,2451 @@
+{
+  "n_runs": 100,
+  "n_seeds": 10,
+  "means": {
+    "mixed_recovery/noaudit": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6121120904634797,
+        "ci": [
+          0.5997006811081816,
+          0.624609024222059
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7302309121718893,
+        "ci": [
+          0.722067698722063,
+          0.7384945761092491
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.6198409663424784,
+        "ci": [
+          0.5861420229653036,
+          0.6507553830796621
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.6098955352032054,
+        "ci": [
+          0.588422474241557,
+          0.6335648611906125
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/uniform": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 17.9,
+        "ci": [
+          16.1,
+          20.2
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 4.8,
+        "ci": [
+          3.9,
+          5.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.8,
+        "ci": [
+          0.4,
+          1.3
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 1.9,
+        "ci": [
+          1.3,
+          2.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.09333333333333334,
+        "ci": [
+          0.075,
+          0.11166666666666666
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.3,
+        "ci": [
+          0.0,
+          0.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 3.5,
+        "ci": [
+          2.6,
+          4.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 8.0,
+        "ci": [
+          4.0,
+          13.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 3129401.3,
+        "ci": [
+          2938279.6,
+          3305455.765
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 56.0,
+        "ci": [
+          45.0,
+          67.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 5.6,
+        "ci": [
+          4.5,
+          6.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6121331365978476,
+        "ci": [
+          0.5998305904063724,
+          0.6245421157723476
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7309079078934975,
+        "ci": [
+          0.7227082332482091,
+          0.7391737143556334
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.608987113675774,
+        "ci": [
+          0.5755873449917754,
+          0.6401837817022722
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.6214510589582141,
+        "ci": [
+          0.5977168002289639,
+          0.6475529479107041
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 10.2,
+        "ci": [
+          7.6,
+          12.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 12.5,
+        "ci": [
+          9.7,
+          15.2
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 5.2,
+        "ci": [
+          3.4,
+          6.9
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 13.1,
+        "ci": [
+          10.2,
+          15.5
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.29500000000000004,
+        "ci": [
+          0.23833333333333334,
+          0.3466666666666667
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 13.8,
+        "ci": [
+          10.6,
+          16.5
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 1.4,
+        "ci": [
+          0.4,
+          2.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 12.4,
+        "ci": [
+          9.0,
+          15.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 52.0,
+        "ci": [
+          34.0,
+          69.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 2746238.2,
+        "ci": [
+          2444375.3674999997,
+          3027981.2
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 177.0,
+        "ci": [
+          143.0,
+          208.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 17.7,
+        "ci": [
+          14.3,
+          20.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6070960131686085,
+        "ci": [
+          0.5956133733755169,
+          0.6196241094876274
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7297687925978494,
+        "ci": [
+          0.7221727062706144,
+          0.7375659510320093
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5666822479404011,
+        "ci": [
+          0.5325110377317596,
+          0.6042874958251441
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.6647896393817974,
+        "ci": [
+          0.6326627790497997,
+          0.7026482899255867
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 12.2,
+        "ci": [
+          9.4,
+          14.9
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 10.5,
+        "ci": [
+          7.2,
+          13.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.8,
+        "ci": [
+          0.4,
+          1.3
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 3.3,
+        "ci": [
+          2.2,
+          4.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.1883333333333333,
+        "ci": [
+          0.13333333333333336,
+          0.24
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 3.6,
+        "ci": [
+          2.6,
+          4.5
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.4,
+        "ci": [
+          0.0,
+          0.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 3.2,
+        "ci": [
+          2.2,
+          4.1
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 8.0,
+        "ci": [
+          4.0,
+          13.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 2778469.2,
+        "ci": [
+          2476985.4,
+          3074719.9450000003
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 113.0,
+        "ci": [
+          80.0,
+          144.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 11.3,
+        "ci": [
+          8.0,
+          14.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6104684825826439,
+        "ci": [
+          0.5967229524683615,
+          0.6238663168408238
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7301166582197126,
+        "ci": [
+          0.720834663736546,
+          0.739076131021887
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5987369614211135,
+        "ci": [
+          0.5680992444545698,
+          0.6303191487745975
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.627024899828277,
+        "ci": [
+          0.6097309673726389,
+          0.6471236405266171
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.1,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 12.2,
+        "ci": [
+          9.9,
+          14.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 10.5,
+        "ci": [
+          7.8,
+          13.2
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 3.4,
+        "ci": [
+          2.1,
+          4.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 3.4,
+        "ci": [
+          2.1,
+          5.2
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.23166666666666663,
+        "ci": [
+          0.18166666666666664,
+          0.275
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 8.5,
+        "ci": [
+          6.5,
+          10.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 1.2,
+        "ci": [
+          0.4,
+          2.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 7.3,
+        "ci": [
+          4.9,
+          9.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 34.0,
+        "ci": [
+          21.0,
+          46.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 2792824.3,
+        "ci": [
+          2481311.6225,
+          3088851.7649999997
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 139.0,
+        "ci": [
+          109.0,
+          165.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 13.9,
+        "ci": [
+          10.9,
+          16.5
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 22.7,
+        "ci": [
+          21.0,
+          24.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6102107750338227,
+        "ci": [
+          0.5977383240924687,
+          0.6227997900554083
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7306741794346603,
+        "ci": [
+          0.7221369624346347,
+          0.7391933421031657
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.589224400835791,
+        "ci": [
+          0.5580685351161684,
+          0.6201905721415548
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.6389882655981682,
+        "ci": [
+          0.6143025543789354,
+          0.6651906840297652
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.1,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/noaudit": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6051196030145761,
+        "ci": [
+          0.5969784493883099,
+          0.6132429149018596
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7316446456353399,
+        "ci": [
+          0.7255165900339162,
+          0.7375190893852994
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5294479591611296,
+        "ci": [
+          0.5004869806678702,
+          0.5602907763583964
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.7205566685746996,
+        "ci": [
+          0.6760086934745279,
+          0.7646182741843159
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/uniform": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 1.5,
+        "ci": [
+          1.2,
+          1.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.06333333333333334,
+        "ci": [
+          0.04666666666666667,
+          0.07833333333333334
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 38.0,
+        "ci": [
+          28.0,
+          47.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 3234611.8,
+        "ci": [
+          3063411.9,
+          3405792.025
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 38.0,
+        "ci": [
+          28.0,
+          47.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6048419762895679,
+        "ci": [
+          0.5962399629085707,
+          0.6135337929779202
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.731464323186692,
+        "ci": [
+          0.7252216729583445,
+          0.737383134876787
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5273993212901128,
+        "ci": [
+          0.4967118393024349,
+          0.560168066692407
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.7244848311390956,
+        "ci": [
+          0.6795864338866628,
+          0.7683314253005151
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 14.1,
+        "ci": [
+          11.3,
+          16.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 12.3,
+        "ci": [
+          9.7,
+          14.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.23499999999999996,
+        "ci": [
+          0.18833333333333332,
+          0.2766666666666666
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 14.1,
+        "ci": [
+          11.3,
+          16.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 14.1,
+        "ci": [
+          11.3,
+          16.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 141.0,
+        "ci": [
+          113.0,
+          166.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 2976486.6,
+        "ci": [
+          2780568.1325000003,
+          3152293.955
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 141.0,
+        "ci": [
+          113.0,
+          166.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 14.1,
+        "ci": [
+          11.3,
+          16.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.5965541109255399,
+        "ci": [
+          0.5874808465156588,
+          0.6057766094992221
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7260216921467224,
+        "ci": [
+          0.7192774570260416,
+          0.7328608490002403
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5016969693844598,
+        "ci": [
+          0.4706686333834454,
+          0.5344650741372456
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.7559602175157413,
+        "ci": [
+          0.7029121350887235,
+          0.8085861476817401
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 1.5,
+        "ci": [
+          1.2,
+          1.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.06333333333333334,
+        "ci": [
+          0.04666666666666667,
+          0.07833333333333334
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 38.0,
+        "ci": [
+          28.0,
+          47.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 3234611.8,
+        "ci": [
+          3063411.9,
+          3405792.025
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 38.0,
+        "ci": [
+          28.0,
+          47.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 3.8,
+        "ci": [
+          2.8,
+          4.7
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6048419762895679,
+        "ci": [
+          0.5962399629085707,
+          0.6135337929779202
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.731464323186692,
+        "ci": [
+          0.7252216729583445,
+          0.737383134876787
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5273993212901128,
+        "ci": [
+          0.4967118393024349,
+          0.560168066692407
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.7244848311390956,
+        "ci": [
+          0.6795864338866628,
+          0.7683314253005151
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "prevented_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 8.5,
+        "ci": [
+          6.5,
+          10.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 1.7,
+        "ci": [
+          1.4,
+          2.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.14166666666666666,
+        "ci": [
+          0.10833333333333332,
+          0.17333333333333337
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "missing_finding_rounds": {
+        "n": 10,
+        "mean": 8.5,
+        "ci": [
+          6.5,
+          10.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "inconclusive_only_rounds": {
+        "n": 10,
+        "mean": 8.5,
+        "ci": [
+          6.5,
+          10.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_compliant_steps": {
+        "n": 10,
+        "mean": 85.0,
+        "ci": [
+          65.0,
+          104.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "audit_total_bytes": {
+        "n": 10,
+        "mean": 3168841.7,
+        "ci": [
+          2967669.7,
+          3349985.4125
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_training_steps": {
+        "n": 10,
+        "mean": 85.0,
+        "ci": [
+          65.0,
+          104.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "rejected_rounds": {
+        "n": 10,
+        "mean": 8.5,
+        "ci": [
+          6.5,
+          10.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "attack_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "local_training_steps": {
+        "n": 10,
+        "mean": 600.0,
+        "ci": [
+          600.0,
+          600.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.6001609164732302,
+        "ci": [
+          0.5931309690269695,
+          0.6075197315334733
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "balanced_accuracy": {
+        "n": 10,
+        "mean": 0.7287951087368961,
+        "ci": [
+          0.7235675747706388,
+          0.7341363739642948
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "precision": {
+        "n": 10,
+        "mean": 0.5111776614871191,
+        "ci": [
+          0.48310028824467544,
+          0.5410777637924818
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "recall": {
+        "n": 10,
+        "mean": 0.743016599885518,
+        "ci": [
+          0.6951130509444762,
+          0.7903910274756726
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 10,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    }
+  },
+  "paired": {
+    "mixed_recovery/neutral-adaptive": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 2.0,
+        "ci": [
+          0.4,
+          3.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": -4.4,
+        "ci": [
+          -5.7,
+          -3.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": -9.8,
+        "ci": [
+          -12.2,
+          -6.9
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": -0.10666666666666666,
+        "ci": [
+          -0.14333333333333337,
+          -0.06999999999999999
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.003372469414035317,
+        "ci": [
+          -0.0030064475256616043,
+          0.008615026034819841
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "primary": {
+        "metric": "compliant_rounds_retained",
+        "n": 10,
+        "mean": -4.4,
+        "ci": [
+          -5.9,
+          -2.6
+        ],
+        "confidence": 0.9833333333333333,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    },
+    "mixed_recovery/neutral-uniform": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": -5.7,
+        "ci": [
+          -8.6,
+          -2.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 1.4,
+        "ci": [
+          0.4,
+          2.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.095,
+        "ci": [
+          0.04666666666666667,
+          0.1433333333333333
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": -0.0016646540152038813,
+        "ci": [
+          -0.004665054433679423,
+          0.0010643017928114173
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "primary": {
+        "metric": "applied_violating_rounds",
+        "n": 10,
+        "mean": -5.7,
+        "ci": [
+          -9.1,
+          -2.1
+        ],
+        "confidence": 0.9833333333333333,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    },
+    "mixed_recovery/separated-neutral": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          -1.7,
+          1.8
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 2.6,
+        "ci": [
+          1.7,
+          3.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 0.1,
+        "ci": [
+          -1.2,
+          1.5
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.04333333333333332,
+        "ci": [
+          0.009999999999999992,
+          0.08
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": -0.0002577075488210623,
+        "ci": [
+          -0.0024713994321523326,
+          0.002177777544461099
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "primary": {
+        "metric": "longest_retention_streak",
+        "n": 10,
+        "mean": 0.1,
+        "ci": [
+          -1.6,
+          1.9
+        ],
+        "confidence": 0.9833333333333333,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    },
+    "withholding_recovery/neutral-adaptive": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": -10.3,
+        "ci": [
+          -12.2,
+          -8.1
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": -10.8,
+        "ci": [
+          -13.0,
+          -8.3
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": -0.1716666666666667,
+        "ci": [
+          -0.2033333333333333,
+          -0.135
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.008287865364028191,
+        "ci": [
+          0.002283706142338009,
+          0.015946603465794112
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    },
+    "withholding_recovery/neutral-uniform": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    },
+    "withholding_recovery/separated-neutral": {
+      "applied_violating_rounds": {
+        "n": 10,
+        "mean": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "compliant_rounds_retained": {
+        "n": 10,
+        "mean": 4.7,
+        "ci": [
+          3.1,
+          6.4
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "longest_retention_streak": {
+        "n": 10,
+        "mean": 0.2,
+        "ci": [
+          -0.2,
+          0.6
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "discarded_steps_fraction": {
+        "n": 10,
+        "mean": 0.07833333333333334,
+        "ci": [
+          0.05166666666666666,
+          0.10666666666666666
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      },
+      "f1": {
+        "n": 10,
+        "mean": -0.004681059816337718,
+        "ci": [
+          -0.009445505788473514,
+          -0.000985793215797448
+        ],
+        "confidence": 0.95,
+        "resamples": 20000,
+        "unit": "matched seed"
+      }
+    }
+  },
+  "inference_scope": "training/scheduling seed variation; one fixed data partition; no population generalization",
+  "primary_family_size": 3,
+  "primary_confidence": 0.9833333333333333,
+  "ci_method": "20000 paired seed percentile bootstrap resamples",
+  "source": "all completed rows; no exclusions"
+}

@@ -1,0 +1,213 @@
+{
+  "summary": {
+    "clean": {
+      "n": 5,
+      "f1": 0.7485033923157163,
+      "f1_sd": 0.006611835910611422,
+      "detection_rate": 0.0
+    },
+    "no_audit": {
+      "n": 5,
+      "f1": 0.7303276872935236,
+      "f1_sd": 0.010049342607144683,
+      "detection_rate": 0.0
+    },
+    "caught": {
+      "3": {
+        "n": 5,
+        "f1": 0.730251832646819,
+        "f1_sd": 0.009483245668081413,
+        "detection_rate": 0.12007602339181286
+      },
+      "10": {
+        "n": 5,
+        "f1": 0.731077020580311,
+        "f1_sd": 0.01300136990013224,
+        "detection_rate": 0.3793801169590643
+      },
+      "30": {
+        "n": 5,
+        "f1": 0.7485033923157163,
+        "f1_sd": 0.006611835910611422,
+        "detection_rate": 1.0
+      }
+    }
+  },
+  "rows": [
+    {
+      "arm": "clean",
+      "budget": 0,
+      "seed": 101,
+      "f1": 0.7423927423927424,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "clean",
+      "budget": 0,
+      "seed": 102,
+      "f1": 0.7577863577863578,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "clean",
+      "budget": 0,
+      "seed": 103,
+      "f1": 0.7484053862508859,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "clean",
+      "budget": 0,
+      "seed": 104,
+      "f1": 0.7421383647798743,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "clean",
+      "budget": 0,
+      "seed": 105,
+      "f1": 0.7517941103687207,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "no_audit",
+      "budget": 0,
+      "seed": 101,
+      "f1": 0.7318217357310398,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "no_audit",
+      "budget": 0,
+      "seed": 102,
+      "f1": 0.7184518942491142,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "no_audit",
+      "budget": 0,
+      "seed": 103,
+      "f1": 0.7423251132360342,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "no_audit",
+      "budget": 0,
+      "seed": 104,
+      "f1": 0.7371174470311274,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "no_audit",
+      "budget": 0,
+      "seed": 105,
+      "f1": 0.7219222462203024,
+      "detection_rate": 0.0
+    },
+    {
+      "arm": "caught",
+      "budget": 3,
+      "seed": 101,
+      "f1": 0.7275967413441956,
+      "detection_rate": 0.12
+    },
+    {
+      "arm": "caught",
+      "budget": 3,
+      "seed": 102,
+      "f1": 0.7194989106753812,
+      "detection_rate": 0.041666666666666664
+    },
+    {
+      "arm": "caught",
+      "budget": 3,
+      "seed": 103,
+      "f1": 0.7424698795180723,
+      "detection_rate": 0.05555555555555555
+    },
+    {
+      "arm": "caught",
+      "budget": 3,
+      "seed": 104,
+      "f1": 0.7374447046578194,
+      "detection_rate": 0.12
+    },
+    {
+      "arm": "caught",
+      "budget": 3,
+      "seed": 105,
+      "f1": 0.7242489270386266,
+      "detection_rate": 0.2631578947368421
+    },
+    {
+      "arm": "caught",
+      "budget": 10,
+      "seed": 101,
+      "f1": 0.7128536422365782,
+      "detection_rate": 0.4
+    },
+    {
+      "arm": "caught",
+      "budget": 10,
+      "seed": 102,
+      "f1": 0.7337278106508875,
+      "detection_rate": 0.4166666666666667
+    },
+    {
+      "arm": "caught",
+      "budget": 10,
+      "seed": 103,
+      "f1": 0.7469997550820474,
+      "detection_rate": 0.4444444444444444
+    },
+    {
+      "arm": "caught",
+      "budget": 10,
+      "seed": 104,
+      "f1": 0.7373606429867773,
+      "detection_rate": 0.32
+    },
+    {
+      "arm": "caught",
+      "budget": 10,
+      "seed": 105,
+      "f1": 0.7244432519452643,
+      "detection_rate": 0.3157894736842105
+    },
+    {
+      "arm": "caught",
+      "budget": 30,
+      "seed": 101,
+      "f1": 0.7423927423927424,
+      "detection_rate": 1.0
+    },
+    {
+      "arm": "caught",
+      "budget": 30,
+      "seed": 102,
+      "f1": 0.7577863577863578,
+      "detection_rate": 1.0
+    },
+    {
+      "arm": "caught",
+      "budget": 30,
+      "seed": 103,
+      "f1": 0.7484053862508859,
+      "detection_rate": 1.0
+    },
+    {
+      "arm": "caught",
+      "budget": 30,
+      "seed": 104,
+      "f1": 0.7421383647798743,
+      "detection_rate": 1.0
+    },
+    {
+      "arm": "caught",
+      "budget": 30,
+      "seed": 105,
+      "f1": 0.7517941103687207,
+      "detection_rate": 1.0
+    }
+  ]
+}

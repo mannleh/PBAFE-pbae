@@ -1,0 +1,59 @@
+{"arm": "clean", "seed": 101, "f1": 0.7424}
+{"arm": "clean", "seed": 102, "f1": 0.7578}
+{"arm": "clean", "seed": 103, "f1": 0.7484}
+{"arm": "clean", "seed": 104, "f1": 0.7421}
+{"arm": "clean", "seed": 105, "f1": 0.7518}
+{"arm": "no_audit", "seed": 101, "f1": 0.7318}
+{"arm": "no_audit", "seed": 102, "f1": 0.7185}
+{"arm": "no_audit", "seed": 103, "f1": 0.7423}
+{"arm": "no_audit", "seed": 104, "f1": 0.7371}
+{"arm": "no_audit", "seed": 105, "f1": 0.7219}
+{"arm": "caught", "budget": 3, "seed": 101, "f1": 0.7276, "det": 0.12}
+{"arm": "caught", "budget": 3, "seed": 102, "f1": 0.7195, "det": 0.042}
+{"arm": "caught", "budget": 3, "seed": 103, "f1": 0.7425, "det": 0.056}
+{"arm": "caught", "budget": 3, "seed": 104, "f1": 0.7374, "det": 0.12}
+{"arm": "caught", "budget": 3, "seed": 105, "f1": 0.7242, "det": 0.263}
+{"arm": "caught", "budget": 10, "seed": 101, "f1": 0.7129, "det": 0.4}
+{"arm": "caught", "budget": 10, "seed": 102, "f1": 0.7337, "det": 0.417}
+{"arm": "caught", "budget": 10, "seed": 103, "f1": 0.747, "det": 0.444}
+{"arm": "caught", "budget": 10, "seed": 104, "f1": 0.7374, "det": 0.32}
+{"arm": "caught", "budget": 10, "seed": 105, "f1": 0.7244, "det": 0.316}
+{"arm": "caught", "budget": 30, "seed": 101, "f1": 0.7424, "det": 1.0}
+{"arm": "caught", "budget": 30, "seed": 102, "f1": 0.7578, "det": 1.0}
+{"arm": "caught", "budget": 30, "seed": 103, "f1": 0.7484, "det": 1.0}
+{"arm": "caught", "budget": 30, "seed": 104, "f1": 0.7421, "det": 1.0}
+{"arm": "caught", "budget": 30, "seed": 105, "f1": 0.7518, "det": 1.0}
+{
+  "clean": {
+    "n": 5,
+    "f1": 0.7485033923157163,
+    "f1_sd": 0.006611835910611422,
+    "detection_rate": 0.0
+  },
+  "no_audit": {
+    "n": 5,
+    "f1": 0.7303276872935236,
+    "f1_sd": 0.010049342607144683,
+    "detection_rate": 0.0
+  },
+  "caught": {
+    "3": {
+      "n": 5,
+      "f1": 0.730251832646819,
+      "f1_sd": 0.009483245668081413,
+      "detection_rate": 0.12007602339181286
+    },
+    "10": {
+      "n": 5,
+      "f1": 0.731077020580311,
+      "f1_sd": 0.01300136990013224,
+      "detection_rate": 0.3793801169590643
+    },
+    "30": {
+      "n": 5,
+      "f1": 0.7485033923157163,
+      "f1_sd": 0.006611835910611422,
+      "detection_rate": 1.0
+    }
+  }
+}

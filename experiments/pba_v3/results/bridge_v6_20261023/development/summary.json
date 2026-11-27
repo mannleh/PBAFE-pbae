@@ -1,0 +1,1173 @@
+{
+  "n_runs": 10,
+  "n_seeds": 1,
+  "means": {
+    "mixed_recovery/noaudit": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7314551563711552,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7487666648865261,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.8348082595870207,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.6508739650413984,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/uniform": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 16.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 3.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.06666666666666667,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 3674399.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 40.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7289719626168224,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7478797014603534,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.8367103694874851,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.6458141674333027,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 9.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.18333333333333332,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 2820152.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 110.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 11.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7305512622359608,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7467184116578381,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.8302107728337237,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.6522539098436062,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 9.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.18333333333333332,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 2821662.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 110.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 11.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7303631212979655,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.746444589094859,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.8297249853715624,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.6522539098436062,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 9.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.16666666666666666,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 2871403.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 100.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7292474786656323,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7467952431957486,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.8328411104548139,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.6485740570377185,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/noaudit": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7456015216357584,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.733571905754657,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.7716535433070866,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.7212511499540019,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/uniform": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.016666666666666666,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 3824508.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7422928709055878,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7347553633451596,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.7790697674418605,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.7088316467341307,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.06666666666666667,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 40.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 3722965.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 40.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 4.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7389070527790751,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.719814778055099,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.7504743833017078,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.7276908923643054,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.016666666666666666,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 3824508.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7422928709055878,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7347553633451596,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.7790697674418605,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.7088316467341307,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.03333333333333333,
+        "ci": null
+      },
+      "missing_finding_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "mixed_fail_missing_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "inconclusive_only_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "audit_total_bytes": {
+        "n": 1,
+        "mean": 3773928.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "rejected_rounds": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "attack_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "local_training_steps": {
+        "n": 1,
+        "mean": 600.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7429816069699903,
+        "ci": null
+      },
+      "balanced_accuracy": {
+        "n": 1,
+        "mean": 0.7372089344246602,
+        "ci": null
+      },
+      "precision": {
+        "n": 1,
+        "mean": 0.7839632277834525,
+        "ci": null
+      },
+      "recall": {
+        "n": 1,
+        "mean": 0.7060717571297148,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    }
+  },
+  "paired": {
+    "mixed_recovery/neutral-adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": -1.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": -1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": -2.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": -0.00018814093799524034,
+        "ci": null
+      },
+      "primary": {
+        "metric": "compliant_rounds_retained",
+        "n": 1,
+        "mean": -1.0,
+        "ci": null
+      }
+    },
+    "mixed_recovery/neutral-uniform": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": -7.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.11666666666666665,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0013911586811431453,
+        "ci": null
+      },
+      "primary": {
+        "metric": "applied_violating_rounds",
+        "n": 1,
+        "mean": -7.0,
+        "ci": null
+      }
+    },
+    "mixed_recovery/separated-neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": -0.016666666666666663,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": -0.0011156426323332136,
+        "ci": null
+      },
+      "primary": {
+        "metric": "longest_retention_streak",
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      }
+    },
+    "withholding_recovery/neutral-adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": -3.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": -3.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": -0.05,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0033858181265127296,
+        "ci": null
+      }
+    },
+    "withholding_recovery/neutral-uniform": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      }
+    },
+    "withholding_recovery/separated-neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "longest_retention_streak": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.016666666666666666,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0006887360644024509,
+        "ci": null
+      }
+    }
+  },
+  "inference_scope": "training/scheduling seed variation; one fixed data partition; no population generalization",
+  "primary_family_size": 3,
+  "primary_confidence": 0.9833333333333333,
+  "ci_method": "20000 paired seed percentile bootstrap resamples",
+  "source": "all completed rows; no exclusions"
+}

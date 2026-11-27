@@ -1,0 +1,49 @@
+{
+  "manuscript_id": "COMPELECENG-D-26-10605",
+  "title": "Policy-Bound Auditing for Federated Edge Intrusion Detection under Limited Verification Budgets",
+  "anonymous": true,
+  "public_remote": true,
+  "public_url": "https://github.com/mannleh/PBAFE-pbae",
+  "availability": "publicly deposited at https://github.com/mannleh/PBAFE-pbae",
+  "created_utc": "2026-11-27T06:44:41.518106+00:00",
+  "python": "3.11",
+  "go": "1.25",
+  "included_experiments": [
+    "pba_v3",
+    "e1_edge",
+    "e2_scaling",
+    "e2c_dimension",
+    "e3_reactive",
+    "e4_cost",
+    "e5_requeue",
+    "e6_overhead",
+    "e7_baselines",
+    "e8_verify",
+    "e11_bytebudget",
+    "e12_scale",
+    "e13_envelope",
+    "external_vrefl"
+  ],
+  "included_processed_data": [
+    "unsw_official_subset_v3",
+    "edgeiiot_subset",
+    "edgeiiot_large",
+    "edgeiiot_main"
+  ],
+  "excluded": [
+    "raw UNSW-NB15 and Edge-IIoTset source corpora (multi-GB)",
+    "author names, affiliations and emails",
+    "Git directories and remotes",
+    "build products, caches, failed runs and temporary smoke outputs",
+    "PBA/2 historical result tree not used by the current manuscript"
+  ],
+  "curation_notes": [
+    "E8 report label counts corrected to 192 FAIL_ROSTER and 44 PASS from per_case.csv.",
+    "E8 report commit count corrected to two local commits.",
+    "Capacity runner docstring corrected to 49,941 parameters.",
+    "E6 network wording standardized to an analytic sequential-request RTT/RTO model.",
+    "Absolute workspace paths replaced with package-root-relative paths."
+  ],
+  "file_count": 1025,
+  "payload_uncompressed_bytes_excluding_info": 1034156598
+}

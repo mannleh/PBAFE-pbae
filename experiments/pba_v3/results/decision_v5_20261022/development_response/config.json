@@ -1,0 +1,21 @@
+{
+  "data_dir": ".\\data\\unsw_official_subset_v3",
+  "out": ".\\experiments\\pba_v3\\results\\decision_v5_20261022\\development_response",
+  "seeds": 1,
+  "seed_start": 800001,
+  "workers": 2,
+  "rounds": 3,
+  "arms": [
+    "clean_noaudit",
+    "drop_noaudit",
+    "drop_uniform_b3",
+    "drop_neutral_b3",
+    "drop_separated_b3",
+    "drop_full_b30"
+  ],
+  "status": "RUNNING",
+  "attack_start_round": 21,
+  "attack_end_round": 60,
+  "timing_scope": "local diagnostics, not deployment/network benchmark",
+  "cost_scope": "payload + exact verifier application framing; no TCP/TLS"
+}

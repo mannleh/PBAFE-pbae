@@ -1,0 +1,7215 @@
+{
+  "agreements": 340,
+  "cases": 340,
+  "mismatches": 0,
+  "reports": [
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f00",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f01",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f02",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f03",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f04",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f05",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f06",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f07",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f08",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f09",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f10",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f11",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f12",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f13",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f14",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f15",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f00-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f00-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f00-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f00-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f00-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f00-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f00-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f00-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f00-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f00-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f00-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f00-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f00-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_RESULT_REPLAY",
+      "findings": [
+        {
+          "outcome": "FAIL_RESULT_REPLAY",
+          "reason": "replay mismatch"
+        }
+      ],
+      "id": "f00-forged_result",
+      "mismatch": false,
+      "outcome": "FAIL_RESULT_REPLAY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "global normalization"
+        }
+      ],
+      "id": "f00-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f00-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f01-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f01-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f01-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f01-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f01-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f01-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f01-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f01-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f01-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f01-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f01-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f01-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f01-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f01-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f01-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f01-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f02-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f02-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f02-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f02-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f02-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f02-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f02-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f02-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f02-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f02-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f02-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f02-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f02-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f02-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f02-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f02-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f03-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f03-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f03-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f03-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f03-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f03-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f03-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f03-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f03-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f03-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f03-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f03-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f03-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f03-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f03-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f03-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f04-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f04-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f04-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f04-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f04-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f04-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f04-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f04-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f04-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f04-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f04-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f04-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f04-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_RESULT_REPLAY",
+      "findings": [
+        {
+          "outcome": "FAIL_RESULT_REPLAY",
+          "reason": "replay mismatch"
+        }
+      ],
+      "id": "f04-forged_result",
+      "mismatch": false,
+      "outcome": "FAIL_RESULT_REPLAY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "global normalization"
+        }
+      ],
+      "id": "f04-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f04-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f05-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f05-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f05-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f05-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f05-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f05-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f05-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f05-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f05-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f05-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f05-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f05-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f05-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f05-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f05-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f05-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f06-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f06-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f06-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f06-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f06-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f06-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f06-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f06-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f06-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f06-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f06-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f06-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f06-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f06-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f06-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f06-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f07-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f07-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f07-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f07-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f07-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f07-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f07-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f07-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f07-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f07-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f07-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f07-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f07-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f07-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f07-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f07-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f08-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f08-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f08-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f08-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f08-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f08-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f08-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f08-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f08-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f08-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f08-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f08-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f08-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_RESULT_REPLAY",
+      "findings": [
+        {
+          "outcome": "FAIL_RESULT_REPLAY",
+          "reason": "replay mismatch"
+        }
+      ],
+      "id": "f08-forged_result",
+      "mismatch": false,
+      "outcome": "FAIL_RESULT_REPLAY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "global normalization"
+        }
+      ],
+      "id": "f08-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f08-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f09-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f09-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f09-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f09-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f09-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f09-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f09-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f09-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f09-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f09-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f09-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f09-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f09-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f09-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f09-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f09-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f10-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f10-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f10-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f10-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f10-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f10-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f10-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f10-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f10-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f10-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f10-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f10-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f10-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f10-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f10-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f10-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f11-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f11-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f11-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f11-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f11-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f11-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f11-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f11-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f11-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f11-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f11-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f11-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f11-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f11-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f11-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f11-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f12-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f12-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f12-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f12-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f12-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f12-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f12-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f12-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f12-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f12-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f12-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f12-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_POLICY",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f12-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "FAIL_ROSTER",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_RESULT_REPLAY",
+      "findings": [
+        {
+          "outcome": "FAIL_RESULT_REPLAY",
+          "reason": "replay mismatch"
+        }
+      ],
+      "id": "f12-forged_result",
+      "mismatch": false,
+      "outcome": "FAIL_RESULT_REPLAY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "global normalization"
+        }
+      ],
+      "id": "f12-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "PASS",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f12-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "0": "PASS",
+        "1": "PASS",
+        "10": "PASS",
+        "11": "PASS",
+        "12": "PASS",
+        "13": "PASS",
+        "14": "PASS",
+        "15": "PASS",
+        "16": "PASS",
+        "17": "PASS",
+        "18": "PASS",
+        "19": "PASS",
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "20": "PASS",
+        "21": "PASS",
+        "22": "PASS",
+        "23": "PASS",
+        "24": "PASS",
+        "25": "PASS",
+        "26": "PASS",
+        "27": "PASS",
+        "28": "PASS",
+        "29": "PASS",
+        "3": "PASS",
+        "4": "PASS",
+        "5": "PASS",
+        "6": "PASS",
+        "7": "PASS",
+        "8": "PASS",
+        "9": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f13-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f13-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f13-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f13-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f13-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f13-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f13-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f13-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f13-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f13-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f13-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f13-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f13-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f13-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f13-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f13-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f14-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f14-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f14-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f14-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f14-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f14-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f14-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f14-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f14-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f14-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f14-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f14-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f14-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f14-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f14-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f14-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f15-update_replacement",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f15-unsigned_insertion",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f15-identity_exchange",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f15-duplicate_record",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "snapshot context/length"
+        }
+      ],
+      "id": "f15-roster_omission",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "slot identity"
+        }
+      ],
+      "id": "f15-unannounced_client",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "signature"
+        }
+      ],
+      "id": "f15-modified_declared_count",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f15-signed_false_declared_count",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f15-declared_count_policy",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f15-rule_substitution",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f15-weight_inconsistency",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_POLICY",
+      "findings": [
+        {
+          "outcome": "FAIL_POLICY",
+          "reason": "local declaration/weight/status rule"
+        }
+      ],
+      "id": "f15-status_policy_mismatch",
+      "mismatch": false,
+      "outcome": "FAIL_POLICY",
+      "records": {
+        "2": "FAIL_POLICY",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt context"
+        }
+      ],
+      "id": "f15-old_round_replay",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f15-forged_result",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "PASS",
+      "findings": null,
+      "id": "f15-denominator_inconsistency",
+      "mismatch": false,
+      "outcome": "PASS",
+      "records": {
+        "2": "PASS",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/opening"
+        }
+      ],
+      "id": "f15-missing_evidence",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f00-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f00-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f00-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f00-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f01-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f01-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f01-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f01-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f02-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f02-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f02-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f02-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f03-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f03-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f03-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f03-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f04-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f04-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f04-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f04-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f05-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f05-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f05-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f05-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f06-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f06-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f06-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f06-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f07-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f07-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f07-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f07-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f08-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f08-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f08-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f08-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f09-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f09-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f09-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f09-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f10-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f10-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f10-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f10-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f11-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f11-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f11-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f11-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f12-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f12-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f12-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f12-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f13-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f13-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f13-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f13-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f14-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f14-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f14-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f14-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f15-random-flip_opening",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "update opening"
+        }
+      ],
+      "id": "f15-random-flip_update",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "receipt digest"
+        }
+      ],
+      "id": "f15-random-flip_receipt_sig",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {
+        "2": "FAIL_ROSTER",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "INCONCLUSIVE_EVIDENCE",
+      "findings": [
+        {
+          "outcome": "INCONCLUSIVE_EVIDENCE",
+          "reason": "missing:record/2/state_proof"
+        }
+      ],
+      "id": "f15-random-drop_state_proof",
+      "mismatch": false,
+      "outcome": "INCONCLUSIVE_EVIDENCE",
+      "records": {
+        "2": "INCONCLUSIVE_EVIDENCE",
+        "4": "PASS",
+        "7": "PASS"
+      }
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "invalid audit selection"
+        }
+      ],
+      "id": "f00-random-duplicate_slot",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "invalid audit selection"
+        }
+      ],
+      "id": "f04-random-duplicate_slot",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "invalid audit selection"
+        }
+      ],
+      "id": "f08-random-duplicate_slot",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    },
+    {
+      "expected": "FAIL_ROSTER",
+      "findings": [
+        {
+          "outcome": "FAIL_ROSTER",
+          "reason": "invalid audit selection"
+        }
+      ],
+      "id": "f12-random-duplicate_slot",
+      "mismatch": false,
+      "outcome": "FAIL_ROSTER",
+      "records": {}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "recorded_at": "2026-10-23T07:32:07.910449+00:00",
+  "kind": "local run-start receipt, not public preregistration",
+  "sha256": {
+    "PROTOCOL.md": "2d4c247774deeab204351cb68509b5cdbad4acd8abcc3fe47a91fc2f61981146",
+    "evaluation/config.json": "6bc41e9b777195930627cbbff046b9fc1db3056c81c605e72f1257cf6b4b0d9b"
+  }
+}

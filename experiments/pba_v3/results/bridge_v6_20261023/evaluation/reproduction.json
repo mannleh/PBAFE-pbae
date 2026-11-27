@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "scope": "first evaluation seed, neutral, two scenarios; same implementation, not full reproduction",
+  "excluded": "local wall/CPU timing fields only",
+  "comparisons": [
+    {
+      "scenario": "mixed_recovery",
+      "method": "neutral",
+      "seed": 310001,
+      "exact_non_timing_match": true
+    },
+    {
+      "scenario": "withholding_recovery",
+      "method": "neutral",
+      "seed": 310001,
+      "exact_non_timing_match": true
+    }
+  ]
+}

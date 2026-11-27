@@ -1,0 +1,24 @@
+{
+  "baseline": "PBA/3 full scope",
+  "data_dir": ".\\data\\unsw_official_subset_v3",
+  "out": ".\\experiments\\external_vrefl\\results_pba_full",
+  "seed_start": 310001,
+  "seeds": 20,
+  "rounds": 60,
+  "scenarios": [
+    "mixed_recovery",
+    "withholding_recovery"
+  ],
+  "methods": [
+    "pba_full"
+  ],
+  "source_sha256": {
+    ".\\experiments\\pba_v3\\v6_bridge.py": "871818aee6f594e08aeea378323c99769401c432383737cdf635431a89127d66"
+  },
+  "data_sha256": {
+    "unsw_subset.npz": "c9b1f49259fad0ae77c4989b119d2395b7fc2f9b73704860cf96387db209c27f",
+    "client_indices.json": "e437383309b12888986e6c461cce5445147d844dfab1c2c688c9224359cac99d"
+  },
+  "numpy_version": "2.5.2",
+  "status": "RUNNING"
+}

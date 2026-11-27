@@ -1,0 +1,58 @@
+{"attack": "none", "regime": "no_audit", "seed": 101, "f1": 0.5371}
+{"attack": "none", "regime": "no_audit", "seed": 102, "f1": 0.4644}
+{"attack": "scale_weight", "regime": "no_audit", "seed": 101, "f1": 0.5184}
+{"attack": "scale_weight", "regime": "no_audit", "seed": 102, "f1": 0.6226}
+{"attack": "scale_weight", "regime": "missed", "seed": 101, "f1": 0.5184}
+{"attack": "scale_weight", "regime": "missed", "seed": 102, "f1": 0.6226}
+{"attack": "scale_weight", "regime": "caught", "seed": 101, "f1": 0.5371}
+{"attack": "scale_weight", "regime": "caught", "seed": 102, "f1": 0.4644}
+{"attack": "replace_update", "regime": "no_audit", "seed": 101, "f1": 0.5375}
+{"attack": "replace_update", "regime": "no_audit", "seed": 102, "f1": 0.4644}
+{"attack": "replace_update", "regime": "missed", "seed": 101, "f1": 0.5375}
+{"attack": "replace_update", "regime": "missed", "seed": 102, "f1": 0.4644}
+{"attack": "replace_update", "regime": "caught", "seed": 101, "f1": 0.5371}
+{"attack": "replace_update", "regime": "caught", "seed": 102, "f1": 0.4644}
+{
+  "none/no_audit": {
+    "n": 2,
+    "f1": 0.500752331295818,
+    "f1_sd": 0.051357468171952234,
+    "balanced_accuracy": 0.5100787863337602
+  },
+  "scale_weight/no_audit": {
+    "n": 2,
+    "f1": 0.5705235899977645,
+    "f1_sd": 0.07368711708645655,
+    "balanced_accuracy": 0.5792649564554111
+  },
+  "scale_weight/caught": {
+    "n": 2,
+    "f1": 0.500752331295818,
+    "f1_sd": 0.051357468171952234,
+    "balanced_accuracy": 0.5100787863337602
+  },
+  "scale_weight/missed": {
+    "n": 2,
+    "f1": 0.5705235899977645,
+    "f1_sd": 0.07368711708645655,
+    "balanced_accuracy": 0.5792649564554111
+  },
+  "replace_update/no_audit": {
+    "n": 2,
+    "f1": 0.5009531180724711,
+    "f1_sd": 0.05164142355464036,
+    "balanced_accuracy": 0.5101937817339443
+  },
+  "replace_update/caught": {
+    "n": 2,
+    "f1": 0.500752331295818,
+    "f1_sd": 0.051357468171952234,
+    "balanced_accuracy": 0.5100787863337602
+  },
+  "replace_update/missed": {
+    "n": 2,
+    "f1": 0.5009531180724711,
+    "f1_sd": 0.05164142355464036,
+    "balanced_accuracy": 0.5101937817339443
+  }
+}

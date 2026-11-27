@@ -1,0 +1,99 @@
+{
+  "oracle": "PBA/3 semantic golden oracle v1",
+  "oracle_scope": "outcome semantics only; not an independent cryptographic implementation",
+  "case_count": 9,
+  "expected_case_count": 9,
+  "all_match": true,
+  "cases": [
+    {
+      "case": "sealed_honest",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "sealed_withheld_opening",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "sealed_record_tamper",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "sealed_roster_substitution",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "segment_honest",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "segment_sum_tamper",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "segment_contribution_tamper",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "predicting_open_schedule",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    },
+    {
+      "case": "predicting_sealed_schedule",
+      "checks": {
+        "spot_outcome": true,
+        "full_outcome": true,
+        "spot_aggregate_verified": true,
+        "full_aggregate_verified": true
+      },
+      "match": true
+    }
+  ]
+}

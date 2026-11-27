@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "none/no_audit": {
+      "n": 1,
+      "f1": 0.4262111453374405,
+      "f1_sd": 0.0,
+      "balanced_accuracy": 0.5008718490252723
+    },
+    "publish_wrong/missed": {
+      "n": 1,
+      "f1": 0.41954559601618424,
+      "f1_sd": 0.0,
+      "balanced_accuracy": 0.5550685639606179
+    },
+    "publish_wrong/no_audit": {
+      "n": 1,
+      "f1": 0.41954559601618424,
+      "f1_sd": 0.0,
+      "balanced_accuracy": 0.5550685639606179
+    },
+    "publish_wrong/caught": {
+      "n": 1,
+      "f1": 0.4262111453374405,
+      "f1_sd": 0.0,
+      "balanced_accuracy": 0.5008718490252723
+    }
+  },
+  "rows": [
+    {
+      "regime": "no_audit",
+      "attack": "none",
+      "seed": 101,
+      "final": {
+        "f1": 0.4262111453374405,
+        "precision": 0.5447387258410881,
+        "recall": 0.3500459981600736,
+        "balanced_accuracy": 0.5008718490252723
+      },
+      "trajectory": []
+    },
+    {
+      "regime": "no_audit",
+      "attack": "publish_wrong",
+      "seed": 101,
+      "final": {
+        "f1": 0.41954559601618424,
+        "precision": 0.6487006737247353,
+        "recall": 0.31002759889604414,
+        "balanced_accuracy": 0.5550685639606179
+      },
+      "trajectory": []
+    },
+    {
+      "regime": "missed",
+      "attack": "publish_wrong",
+      "seed": 101,
+      "final": {
+        "f1": 0.41954559601618424,
+        "precision": 0.6487006737247353,
+        "recall": 0.31002759889604414,
+        "balanced_accuracy": 0.5550685639606179
+      },
+      "trajectory": []
+    },
+    {
+      "regime": "caught",
+      "attack": "publish_wrong",
+      "seed": 101,
+      "final": {
+        "f1": 0.4262111453374405,
+        "precision": 0.5447387258410881,
+        "recall": 0.3500459981600736,
+        "balanced_accuracy": 0.5008718490252723
+      },
+      "trajectory": []
+    }
+  ]
+}

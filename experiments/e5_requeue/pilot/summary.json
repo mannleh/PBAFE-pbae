@@ -1,0 +1,904 @@
+{
+  "n_runs": 10,
+  "means": {
+    "mixed_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 9.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 14.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.26666666666666666,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7372549019607842,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 2872986.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 160.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 6.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 17.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.3,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7371174470311274,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 2872473.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 180.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 3.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 7.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.45,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 70.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7482785003825555,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 2367491.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 270.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/neutral_requeue": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 9.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 14.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.26666666666666666,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 20.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7382690302398333,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 2973587.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 160.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "mixed_recovery/separated_requeue": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 6.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 17.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.3,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 10.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7409716809560924,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 2973063.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 180.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 5.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.08333333333333333,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 50.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7676227515799708,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 3573573.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 50.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 7.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.11666666666666667,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 70.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7630482724822346,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 3573050.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 70.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/adaptive": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 19.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.31666666666666665,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 190.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7591133004926109,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 3168671.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 190.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/neutral_requeue": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 5.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.08333333333333333,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 50.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7702280912364946,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 3674185.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 50.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    },
+    "withholding_recovery/separated_requeue": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "prevented_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 7.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.11666666666666667,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 70.0,
+        "ci": null
+      },
+      "requeued": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "success": {
+        "n": 1,
+        "mean": 2.0,
+        "ci": null
+      },
+      "failed": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "censored": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "slots_forced": {
+        "n": 1,
+        "mean": 1.0,
+        "ci": null
+      },
+      "pending_end": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.7653780695356187,
+        "ci": null
+      },
+      "audit_bytes": {
+        "n": 1,
+        "mean": 3673662.0,
+        "ci": null
+      },
+      "discarded_training_steps": {
+        "n": 1,
+        "mean": 70.0,
+        "ci": null
+      },
+      "post_restore_first_apply_delay": {
+        "conditional_mean": 0.0,
+        "observed": 1,
+        "censored": 0,
+        "window_rounds": 20
+      }
+    }
+  },
+  "paired": {
+    "mixed_recovery/neutral_requeue-neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0010141282790490092,
+        "ci": null
+      }
+    },
+    "mixed_recovery/separated_requeue-separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.003854233924965089,
+        "ci": null
+      }
+    },
+    "withholding_recovery/neutral_requeue-neutral": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.002605339656523764,
+        "ci": null
+      }
+    },
+    "withholding_recovery/separated_requeue-separated": {
+      "applied_violating_rounds": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "compliant_rounds_retained": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_steps_fraction": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "discarded_compliant_steps": {
+        "n": 1,
+        "mean": 0.0,
+        "ci": null
+      },
+      "f1": {
+        "n": 1,
+        "mean": 0.0023297970533840973,
+        "ci": null
+      }
+    }
+  },
+  "seeds": 1,
+  "seed_start": 320001,
+  "arms": [
+    "neutral",
+    "separated",
+    "adaptive",
+    "neutral_requeue",
+    "separated_requeue"
+  ]
+}

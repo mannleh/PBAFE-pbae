@@ -1,0 +1,27 @@
+{
+  "out": ".\\experiments\\e5_requeue\\pilot",
+  "data_dir": ".\\data\\unsw_official_subset_v3",
+  "seeds": "1",
+  "seed_start": "320001",
+  "workers": "4",
+  "rounds": "60",
+  "scenarios": [
+    "mixed_recovery",
+    "withholding_recovery"
+  ],
+  "arms": [
+    "neutral",
+    "separated",
+    "adaptive",
+    "neutral_requeue",
+    "separated_requeue"
+  ],
+  "budget": 3,
+  "max_retries": 2,
+  "restoration_round": 41,
+  "numpy": "2.5.5",
+  "source_sha256": {
+    ".\\experiments\\e5_requeue\\run_e5.py": "f556c21f1e33376e5aafa62c5f526a70293103ea7bfcc421c4198dd9c5e4f704",
+    ".\\experiments\\pba_v3\\v6_bridge.py": "45297c4d1602a932a8642d637f4cf011c0efc710115e628f6c4a132213b4739d"
+  }
+}

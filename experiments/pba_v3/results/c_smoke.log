@@ -1,0 +1,30 @@
+{"attack": "none", "regime": "no_audit", "seed": 101, "f1": 0.4262}
+{"attack": "publish_wrong", "regime": "no_audit", "seed": 101, "f1": 0.4195}
+{"attack": "publish_wrong", "regime": "missed", "seed": 101, "f1": 0.4195}
+{"attack": "publish_wrong", "regime": "caught", "seed": 101, "f1": 0.4262}
+{
+  "none/no_audit": {
+    "n": 1,
+    "f1": 0.4262111453374405,
+    "f1_sd": 0.0,
+    "balanced_accuracy": 0.5008718490252723
+  },
+  "publish_wrong/missed": {
+    "n": 1,
+    "f1": 0.41954559601618424,
+    "f1_sd": 0.0,
+    "balanced_accuracy": 0.5550685639606179
+  },
+  "publish_wrong/no_audit": {
+    "n": 1,
+    "f1": 0.41954559601618424,
+    "f1_sd": 0.0,
+    "balanced_accuracy": 0.5550685639606179
+  },
+  "publish_wrong/caught": {
+    "n": 1,
+    "f1": 0.4262111453374405,
+    "f1_sd": 0.0,
+    "balanced_accuracy": 0.5008718490252723
+  }
+}

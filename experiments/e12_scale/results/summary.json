@@ -1,0 +1,80 @@
+{
+  "K100/drop_noaudit": {
+    "f1_mean": 0.7544583702706167,
+    "f1_sd": 0.005559318134646988,
+    "precision_mean": 0.756895682789035,
+    "recall_mean": 0.7524379024839006,
+    "attack_rounds_mean": 37.5,
+    "applied_mean": 37.5,
+    "discarded_steps_mean": 0.0,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 0.0,
+    "audit_cpu_ms_mean": 0.0,
+    "params": 49921
+  },
+  "K100/drop_uniform_b3": {
+    "f1_mean": 0.7545540302460557,
+    "f1_sd": 0.006351337373476192,
+    "precision_mean": 0.7697630581558353,
+    "recall_mean": 0.740524379024839,
+    "attack_rounds_mean": 37.5,
+    "applied_mean": 29.2,
+    "discarded_steps_mean": 273.9,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 1269.721611328125,
+    "audit_cpu_ms_mean": 158.38541666666669,
+    "params": 49921
+  },
+  "K100/drop_neutral_b3": {
+    "f1_mean": 0.753593090867595,
+    "f1_sd": 0.007376539622147831,
+    "precision_mean": 0.7834041468105494,
+    "recall_mean": 0.7269089236430543,
+    "attack_rounds_mean": 37.5,
+    "applied_mean": 10.1,
+    "discarded_steps_mean": 904.2,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 1035.0074544270833,
+    "audit_cpu_ms_mean": 109.55729166666666,
+    "params": 49921
+  },
+  "K200/drop_noaudit": {
+    "f1_mean": 0.7533488541289307,
+    "f1_sd": 0.006432336488736842,
+    "precision_mean": 0.7515957629873488,
+    "recall_mean": 0.7554277828886844,
+    "attack_rounds_mean": 39.8,
+    "applied_mean": 39.8,
+    "discarded_steps_mean": 0.0,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 0.0,
+    "audit_cpu_ms_mean": 0.0,
+    "params": 49921
+  },
+  "K200/drop_uniform_b3": {
+    "f1_mean": 0.7538120945279168,
+    "f1_sd": 0.006691224966584316,
+    "precision_mean": 0.7736673826962295,
+    "recall_mean": 0.7354645814167433,
+    "attack_rounds_mean": 39.8,
+    "applied_mean": 24.6,
+    "discarded_steps_mean": 1003.2,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 2537.8303808593746,
+    "audit_cpu_ms_mean": 294.3229166666667,
+    "params": 49921
+  },
+  "K200/drop_neutral_b3": {
+    "f1_mean": 0.755985868937659,
+    "f1_sd": 0.00736062238235801,
+    "precision_mean": 0.7778538793966392,
+    "recall_mean": 0.7371205151793928,
+    "attack_rounds_mean": 39.8,
+    "applied_mean": 6.7,
+    "discarded_steps_mean": 2184.6,
+    "honest_rejected_mean": 0.0,
+    "audit_kb_per_round": 2143.802872721354,
+    "audit_cpu_ms_mean": 237.265625,
+    "params": 49921
+  }
+}

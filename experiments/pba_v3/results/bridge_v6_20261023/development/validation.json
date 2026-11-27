@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "root": ".\\experiments\\pba_v3\\results\\bridge_v6_20261023\\development",
+  "errors": [],
+  "checks": {
+    "source_sha256": {
+      ".\\experiments\\pba_v3\\v6_bridge.py": "45297c4d1602a932a8642d637f4cf011c0efc710115e628f6c4a132213b4739d",
+      ".\\experiments\\pba_v3\\v5_response.py": "2606b08ea06b26c237c03ccd8f22deeb826ab1107e8579ac882630829c47086b",
+      ".\\experiments\\pba_v3\\v5_common.py": "68e24baaa243b6d7deae85d594da3b8c21cba01ce9d68cb8c3df6586be1da5cd",
+      ".\\experiments\\pba_v3\\flcore.py": "4d4f1b87c6f931b5408bdacf28d36123a6358315d6150cb8fb8d02bd1bcbc028",
+      ".\\experiments\\pba_v3\\verify.py": "0d8351bef280aa5b7e0ce099f397f6034fd4941fcc680fa698633aa96c30f301",
+      ".\\experiments\\pba_v3\\codec.py": "301e5e11836e689380b835676114fd0a1dcf11990180e6a6371528c30de3ff8d",
+      ".\\experiments\\pba_v3\\repository.py": "c39cb4b2fa2af6aa725f5a504ac873009290e312742d6214337113de24b11024",
+      ".\\experiments\\pba_v3\\run_c_consequence.py": "f8dbdead44ea71d15c24ba6bb71eee88f50b15df5bbbf6307b32cd4cc70ea1fb"
+    },
+    "protocol_sha256": "2d4c247774deeab204351cb68509b5cdbad4acd8abcc3fe47a91fc2f61981146",
+    "validator_sha256": "476a587e3af58a5a8b986fd733bfc7d1229265874748c1c8f01c429f58839740",
+    "control_boundaries": {
+      "observation_only_schedule_replayed": true,
+      "outcome_only_controller_ast": true,
+      "pre_challenge_withholding_ast": true
+    },
+    "data_sha256": {
+      "unsw_subset.npz": "c9b1f49259fad0ae77c4989b119d2395b7fc2f9b73704860cf96387db209c27f",
+      "client_indices.json": "e437383309b12888986e6c461cce5445147d844dfab1c2c688c9224359cac99d"
+    },
+    "cell_coverage": {
+      "cells": 10,
+      "unique_cells": 10
+    },
+    "trace_accounting": {
+      "validated_cells": 10,
+      "total_cells": 10,
+      "rounds_seen": 600
+    },
+    "paired_seeds": 1,
+    "summary": {
+      "all_means_and_paired_checked": true,
+      "primary_contrasts": 3,
+      "resamples": 20000,
+      "resampling_seed": 776655,
+      "primary_confidence": 0.9833333333333333,
+      "intervals_estimable": false
+    }
+  },
+  "stage": "development",
+  "limitations": [
+    "Not an independent cryptographic verification.",
+    "Accepted updates and classifier predictions are not independently rerun.",
+    "Timings are finite/nonnegative checked only; no per-round timings exist.",
+    "Protocol hash is recorded now, not independently anchored at freeze."
+  ],
+  "expected_cells": 10,
+  "expected_rounds": 600
+}

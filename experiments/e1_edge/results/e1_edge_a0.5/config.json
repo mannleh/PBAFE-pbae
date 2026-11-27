@@ -1,0 +1,33 @@
+{
+  "alpha": 0.5,
+  "data_dir": ".\\data\\edgeiiot_subset\\edgeiiot_a0.5",
+  "out": ".\\experiments\\e1_edge\\results\\e1_edge_a0.5",
+  "seed_start": 310001,
+  "seeds": 20,
+  "rounds": 60,
+  "budget": 3,
+  "scenarios": [
+    "mixed_recovery",
+    "withholding_recovery"
+  ],
+  "methods": [
+    "noaudit",
+    "uniform",
+    "adaptive",
+    "neutral",
+    "separated"
+  ],
+  "dropped_clients": [
+    10,
+    11
+  ],
+  "corpus": "Edge-IIoTset",
+  "features": 42,
+  "model_params": 1409,
+  "status": "RUNNING",
+  "data_sha256": {
+    "unsw_subset.npz": "6faea1cea4e217452f7cf9cdd60aba3708d442e3da4cb694d36b2416e7c26c80",
+    "client_indices.json": "67ad97b0dfc8d32da59ce5808992ed494cf7de3145fd9b38237135a88e4810bf"
+  },
+  "numpy_version": "2.5.5"
+}

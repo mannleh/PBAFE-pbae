@@ -1,0 +1,27 @@
+{
+  "config": {
+    "out": ".\\experiments\\e3_reactive\\pilot",
+    "seeds": "2",
+    "seed_start": "230001",
+    "workers": "4"
+  },
+  "methods": [
+    "uniform",
+    "adaptive",
+    "neutral",
+    "separated"
+  ],
+  "eps": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "numpy": "2.5.5",
+  "source_hashes": {
+    ".\\experiments\\e3_reactive\\run_e3.py": "0e15f4419fd8a700ae2cda712ce276b846ba2d73bfc3e7739d19ebec27f61f00",
+    ".\\experiments\\pba_v3\\v5_scheduler.py": "3098c652dc04cb3b1b704959e61d648d0dae49485fd2ddcca4e06435afe2cf38",
+    ".\\experiments\\pba_v3\\repository.py": "c39cb4b2fa2af6aa725f5a504ac873009290e312742d6214337113de24b11024",
+    ".\\experiments\\pba_v3\\verify.py": "0d8351bef280aa5b7e0ce099f397f6034fd4941fcc680fa698633aa96c30f301"
+  }
+}

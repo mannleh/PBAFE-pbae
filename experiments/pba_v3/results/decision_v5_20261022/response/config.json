@@ -1,0 +1,34 @@
+{
+  "data_dir": ".\\data\\unsw_official_subset_v3",
+  "out": ".\\experiments\\pba_v3\\results\\decision_v5_20261022\\response",
+  "seeds": 20,
+  "seed_start": 300001,
+  "workers": 2,
+  "rounds": 60,
+  "arms": [
+    "clean_noaudit",
+    "drop_noaudit",
+    "drop_uniform_b3",
+    "drop_neutral_b3",
+    "drop_separated_b3",
+    "drop_full_b30"
+  ],
+  "status": "RUNNING",
+  "attack_start_round": 21,
+  "attack_end_round": 60,
+  "timing_scope": "local diagnostics, not deployment/network benchmark",
+  "cost_scope": "payload + exact verifier application framing; no TCP/TLS",
+  "source_sha256": {
+    ".\\experiments\\pba_v3\\v5_response.py": "2606b08ea06b26c237c03ccd8f22deeb826ab1107e8579ac882630829c47086b",
+    ".\\experiments\\pba_v3\\v5_common.py": "68e24baaa243b6d7deae85d594da3b8c21cba01ce9d68cb8c3df6586be1da5cd",
+    ".\\experiments\\pba_v3\\flcore.py": "4d4f1b87c6f931b5408bdacf28d36123a6358315d6150cb8fb8d02bd1bcbc028",
+    ".\\experiments\\pba_v3\\verify.py": "0d8351bef280aa5b7e0ce099f397f6034fd4941fcc680fa698633aa96c30f301",
+    ".\\experiments\\pba_v3\\repository.py": "c39cb4b2fa2af6aa725f5a504ac873009290e312742d6214337113de24b11024",
+    ".\\experiments\\pba_v3\\run_c_consequence.py": "f8dbdead44ea71d15c24ba6bb71eee88f50b15df5bbbf6307b32cd4cc70ea1fb"
+  },
+  "data_sha256": {
+    "unsw_subset.npz": "c9b1f49259fad0ae77c4989b119d2395b7fc2f9b73704860cf96387db209c27f",
+    "client_indices.json": "e437383309b12888986e6c461cce5445147d844dfab1c2c688c9224359cac99d"
+  },
+  "numpy_version": "2.4.6"
+}

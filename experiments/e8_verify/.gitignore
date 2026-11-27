@@ -1,0 +1,6 @@
+# build products
+go/pbaverify.exe
+*.log
+
+# transient
+__pycache__/

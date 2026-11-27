@@ -1,0 +1,31 @@
+{
+  "adaptive": {
+    "n": 100,
+    "inconclusive_mean": 47.26,
+    "inconclusive_sd": 4.655007079381395,
+    "inconclusive_ci95": 0.9123813875587535,
+    "inconclusive_attack_rounds_mean": 47.26,
+    "coverage_mean": 0.9088461538461539,
+    "tdr_mean": 0.0,
+    "bytes_mean": 572935.86
+  },
+  "uniform": {
+    "n": 100,
+    "inconclusive_mean": 10.46,
+    "inconclusive_sd": 3.049821985200799,
+    "inconclusive_ci95": 0.5977651090993565,
+    "inconclusive_attack_rounds_mean": 10.46,
+    "coverage_mean": 0.20115384615384616,
+    "tdr_mean": 0.0,
+    "bytes_mean": 716116.81
+  },
+  "paired_adaptive_minus_uniform_inconclusive": {
+    "mean": 36.8,
+    "ci95_low": 35.81901060045472,
+    "ci95_high": 37.78098939954528
+  },
+  "reference_release_v3": {
+    "adaptive": 47.26,
+    "uniform": 10.46
+  }
+}

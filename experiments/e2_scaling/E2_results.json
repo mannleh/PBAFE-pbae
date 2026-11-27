@@ -1,0 +1,62 @@
+[
+  {
+    "K": 30,
+    "budget": 3,
+    "full": false,
+    "bytes_mean": 7999,
+    "requests_mean": 20,
+    "cpu_ms_mean": 6.25,
+    "wall_ms_mean": 9.813579998444766,
+    "outcome": "FAIL_POLICY"
+  },
+  {
+    "K": 30,
+    "budget": 30,
+    "full": true,
+    "bytes_mean": 108895,
+    "requests_mean": 209,
+    "cpu_ms_mean": 93.75,
+    "wall_ms_mean": 93.58886000118218,
+    "outcome": "FAIL_POLICY"
+  },
+  {
+    "K": 100,
+    "budget": 3,
+    "full": false,
+    "bytes_mean": 8805,
+    "requests_mean": 20,
+    "cpu_ms_mean": 12.5,
+    "wall_ms_mean": 10.24896000744775,
+    "outcome": "FAIL_POLICY"
+  },
+  {
+    "K": 100,
+    "budget": 100,
+    "full": true,
+    "bytes_mean": 397497,
+    "requests_mean": 699,
+    "cpu_ms_mean": 287.5,
+    "wall_ms_mean": 304.44944000337273,
+    "outcome": "FAIL_POLICY"
+  },
+  {
+    "K": 200,
+    "budget": 3,
+    "full": false,
+    "bytes_mean": 9208,
+    "requests_mean": 20,
+    "cpu_ms_mean": 9.375,
+    "wall_ms_mean": 9.4959799956996,
+    "outcome": "FAIL_POLICY"
+  },
+  {
+    "K": 200,
+    "budget": 200,
+    "full": true,
+    "bytes_mean": 826301,
+    "requests_mean": 1399,
+    "cpu_ms_mean": 493.75,
+    "wall_ms_mean": 495.78222000272945,
+    "outcome": "FAIL_POLICY"
+  }
+]

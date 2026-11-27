@@ -1,0 +1,174 @@
+{
+  "summary": {
+    "256/record": {
+      "bytes": 12424,
+      "wall_ms": 18.71,
+      "n": 3
+    },
+    "256/segment": {
+      "bytes": 72055.3,
+      "wall_ms": 24.05,
+      "n": 3
+    },
+    "256/full": {
+      "bytes": 115316,
+      "wall_ms": 196.66,
+      "n": 3
+    },
+    "6241/record": {
+      "bytes": 156061,
+      "wall_ms": 80.46,
+      "n": 3
+    },
+    "6241/segment": {
+      "bytes": 289463,
+      "wall_ms": 176.29,
+      "n": 3
+    },
+    "6241/full": {
+      "bytes": 1599597,
+      "wall_ms": 2053.26,
+      "n": 3
+    }
+  },
+  "rows": [
+    {
+      "dimension": 256,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1000,
+      "record": {
+        "bytes": 12424,
+        "wall_ms": 20.0045,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 72099,
+        "wall_ms": 23.9427,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 115315,
+        "wall_ms": 201.8405,
+        "updates": 30
+      }
+    },
+    {
+      "dimension": 256,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1001,
+      "record": {
+        "bytes": 12424,
+        "wall_ms": 18.6676,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 71962,
+        "wall_ms": 24.72,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 115315,
+        "wall_ms": 196.2228,
+        "updates": 30
+      }
+    },
+    {
+      "dimension": 256,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1002,
+      "record": {
+        "bytes": 12424,
+        "wall_ms": 17.4498,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 72105,
+        "wall_ms": 23.4945,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 115318,
+        "wall_ms": 191.9128,
+        "updates": 30
+      }
+    },
+    {
+      "dimension": 6241,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1000,
+      "record": {
+        "bytes": 156077,
+        "wall_ms": 81.584,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 289799,
+        "wall_ms": 119.6486,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 1599596,
+        "wall_ms": 2859.8254,
+        "updates": 30
+      }
+    },
+    {
+      "dimension": 6241,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1001,
+      "record": {
+        "bytes": 156053,
+        "wall_ms": 79.0378,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 287691,
+        "wall_ms": 306.4185,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 1599596,
+        "wall_ms": 1798.3404,
+        "updates": 30
+      }
+    },
+    {
+      "dimension": 6241,
+      "clients": 30,
+      "segments": 16,
+      "b": 3,
+      "seed": 1002,
+      "record": {
+        "bytes": 156053,
+        "wall_ms": 80.7488,
+        "records": 3
+      },
+      "segment": {
+        "bytes": 290899,
+        "wall_ms": 102.8118,
+        "outcome": "PASS",
+        "segments": 3
+      },
+      "full": {
+        "bytes": 1599599,
+        "wall_ms": 1501.6096,
+        "updates": 30
+      }
+    }
+  ]
+}

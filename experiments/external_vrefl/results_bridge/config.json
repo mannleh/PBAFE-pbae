@@ -1,0 +1,28 @@
+{
+  "baseline": "VREFL verification core (LHH + Merkle), not full secure aggregation/CRT",
+  "citation": "Ye et al., JNCA 207 (2022) 103486, doi:10.1016/j.jnca.2022.103486",
+  "data_dir": ".\\data\\unsw_official_subset_v3",
+  "out": ".\\experiments\\external_vrefl\\results_bridge",
+  "seed_start": 310001,
+  "seeds": 20,
+  "rounds": 60,
+  "scenarios": [
+    "mixed_recovery",
+    "withholding_recovery"
+  ],
+  "methods": [
+    "vrefl_full"
+  ],
+  "source_sha256": {
+    ".\\experiments\\external_vrefl\\run_vrefl_baseline.py": "759b95756835be023392d06532b208d5602e832e2507d3cec0379daf98a1db3d",
+    ".\\experiments\\external_vrefl\\vrefl_core.py": "2c020a905c288ff8660f18bf6e3e41ab68386e5bd5815f356f35dd2abbe5ed12",
+    ".\\experiments\\pba_v3\\v6_bridge.py": "eef5648afddc315f76f59268f2c460c9cdac60c6d96bce8856fce19709ed2893",
+    ".\\experiments\\pba_v3\\v5_response.py": "b3c0eb52258fc958d4a9edb75345f111db06d2e07e1fa18ed9a00c4be292de84"
+  },
+  "data_sha256": {
+    "unsw_subset.npz": "c9b1f49259fad0ae77c4989b119d2395b7fc2f9b73704860cf96387db209c27f",
+    "client_indices.json": "e437383309b12888986e6c461cce5445147d844dfab1c2c688c9224359cac99d"
+  },
+  "numpy_version": "2.5.2",
+  "status": "RUNNING"
+}

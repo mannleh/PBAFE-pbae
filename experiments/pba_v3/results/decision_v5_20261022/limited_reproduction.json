@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "scheduler": {
+    "seed": 220001,
+    "cells": 28,
+    "rounds_per_cell": 60
+  },
+  "response": {
+    "seed": 300001,
+    "arm": "drop_neutral_b3",
+    "rounds": 60
+  },
+  "match": "exact all fields except measured timing",
+  "full_study_rerun": false
+}

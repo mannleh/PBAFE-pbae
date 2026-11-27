@@ -1,0 +1,38 @@
+{
+  "cases": 340,
+  "agreements": 340,
+  "mismatches": 0,
+  "fixtures": 16,
+  "mutants": 324,
+  "semantic_kinds": [
+    "declared_count_policy",
+    "denominator_inconsistency",
+    "duplicate_record",
+    "forged_result",
+    "identity_exchange",
+    "missing_evidence",
+    "modified_declared_count",
+    "old_round_replay",
+    "random-drop_state_proof",
+    "random-duplicate_slot",
+    "random-flip_opening",
+    "random-flip_receipt_sig",
+    "random-flip_update",
+    "roster_omission",
+    "rule_substitution",
+    "signed_false_declared_count",
+    "status_policy_mismatch",
+    "unannounced_client",
+    "unsigned_insertion",
+    "update_replacement",
+    "weight_inconsistency"
+  ],
+  "sha256": {
+    "build_cases.py": "05752dab3813ab7821576cb87ce053d2ae66394eeb0a88a243da18be22ecd886",
+    "cases\\cases.json": "c9c9a61c9d166296b3711cb7e687319abaafd226595d665d0a9016ed2a420957",
+    "go\\main.go": "87e24cad998b5e9ffdb25bf0f0e3e8d94517632fc42bfb905c5ccb39b1c7a37d",
+    "go_report.json": "dbe9da483197fd6fca89cc7e57176da1760ce0fe4d6334fe6a5775edf0001e7a"
+  },
+  "python_reference": "experiments/pba_v3 (verify.py, codec.py, repository.py)",
+  "go_version": "go1.25.9 windows/amd64"
+}

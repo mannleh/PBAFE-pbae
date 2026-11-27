@@ -1,0 +1,92 @@
+{"attack": "none", "regime": "no_audit", "seed": 101, "f1": 0.7424}
+{"attack": "none", "regime": "no_audit", "seed": 102, "f1": 0.7578}
+{"attack": "none", "regime": "no_audit", "seed": 103, "f1": 0.7484}
+{"attack": "scale_weight", "regime": "no_audit", "seed": 101, "f1": 0.753}
+{"attack": "scale_weight", "regime": "no_audit", "seed": 102, "f1": 0.7623}
+{"attack": "scale_weight", "regime": "no_audit", "seed": 103, "f1": 0.7519}
+{"attack": "scale_weight", "regime": "missed", "seed": 101, "f1": 0.753}
+{"attack": "scale_weight", "regime": "missed", "seed": 102, "f1": 0.7623}
+{"attack": "scale_weight", "regime": "missed", "seed": 103, "f1": 0.7519}
+{"attack": "scale_weight", "regime": "caught", "seed": 101, "f1": 0.7424}
+{"attack": "scale_weight", "regime": "caught", "seed": 102, "f1": 0.7578}
+{"attack": "scale_weight", "regime": "caught", "seed": 103, "f1": 0.7484}
+{"attack": "replace_update", "regime": "no_audit", "seed": 101, "f1": 0.7475}
+{"attack": "replace_update", "regime": "no_audit", "seed": 102, "f1": 0.7351}
+{"attack": "replace_update", "regime": "no_audit", "seed": 103, "f1": 0.7281}
+{"attack": "replace_update", "regime": "missed", "seed": 101, "f1": 0.7475}
+{"attack": "replace_update", "regime": "missed", "seed": 102, "f1": 0.7351}
+{"attack": "replace_update", "regime": "missed", "seed": 103, "f1": 0.7281}
+{"attack": "replace_update", "regime": "caught", "seed": 101, "f1": 0.7424}
+{"attack": "replace_update", "regime": "caught", "seed": 102, "f1": 0.7578}
+{"attack": "replace_update", "regime": "caught", "seed": 103, "f1": 0.7484}
+{"attack": "drop_client", "regime": "no_audit", "seed": 101, "f1": 0.7382}
+{"attack": "drop_client", "regime": "no_audit", "seed": 102, "f1": 0.7622}
+{"attack": "drop_client", "regime": "no_audit", "seed": 103, "f1": 0.7504}
+{"attack": "drop_client", "regime": "missed", "seed": 101, "f1": 0.7382}
+{"attack": "drop_client", "regime": "missed", "seed": 102, "f1": 0.7622}
+{"attack": "drop_client", "regime": "missed", "seed": 103, "f1": 0.7504}
+{"attack": "drop_client", "regime": "caught", "seed": 101, "f1": 0.7424}
+{"attack": "drop_client", "regime": "caught", "seed": 102, "f1": 0.7578}
+{"attack": "drop_client", "regime": "caught", "seed": 103, "f1": 0.7484}
+{
+  "none/no_audit": {
+    "n": 3,
+    "f1": 0.7495281621433287,
+    "f1_sd": 0.007757984145390234,
+    "balanced_accuracy": 0.7144423642550465
+  },
+  "scale_weight/no_audit": {
+    "n": 3,
+    "f1": 0.7557280747852183,
+    "f1_sd": 0.005687908996205875,
+    "balanced_accuracy": 0.7423555558690395
+  },
+  "scale_weight/missed": {
+    "n": 3,
+    "f1": 0.7557280747852183,
+    "f1_sd": 0.005687908996205875,
+    "balanced_accuracy": 0.7423555558690395
+  },
+  "scale_weight/caught": {
+    "n": 3,
+    "f1": 0.7495281621433287,
+    "f1_sd": 0.007757984145390234,
+    "balanced_accuracy": 0.7144423642550465
+  },
+  "replace_update/no_audit": {
+    "n": 3,
+    "f1": 0.7368842343795522,
+    "f1_sd": 0.009823610155113092,
+    "balanced_accuracy": 0.6845510334387646
+  },
+  "replace_update/missed": {
+    "n": 3,
+    "f1": 0.7368842343795522,
+    "f1_sd": 0.009823610155113092,
+    "balanced_accuracy": 0.6845510334387646
+  },
+  "replace_update/caught": {
+    "n": 3,
+    "f1": 0.7495281621433287,
+    "f1_sd": 0.007757984145390234,
+    "balanced_accuracy": 0.7144423642550465
+  },
+  "drop_client/no_audit": {
+    "n": 3,
+    "f1": 0.750270757442431,
+    "f1_sd": 0.012019828816448542,
+    "balanced_accuracy": 0.7215112016183829
+  },
+  "drop_client/missed": {
+    "n": 3,
+    "f1": 0.750270757442431,
+    "f1_sd": 0.012019828816448542,
+    "balanced_accuracy": 0.7215112016183829
+  },
+  "drop_client/caught": {
+    "n": 3,
+    "f1": 0.7495281621433287,
+    "f1_sd": 0.007757984145390234,
+    "balanced_accuracy": 0.7144423642550465
+  }
+}

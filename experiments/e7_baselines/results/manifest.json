@@ -1,0 +1,24 @@
+{
+  "config": {
+    "out": ".\\experiments\\e7_baselines\\results",
+    "seeds": "100",
+    "seed_start": "220001",
+    "workers": "6"
+  },
+  "methods": [
+    "uniform",
+    "adaptive",
+    "neutral",
+    "separated",
+    "ucb",
+    "epsgreedy"
+  ],
+  "numpy": "2.5.5",
+  "source_hashes": {
+    ".\\experiments\\pba_v3\\v5_scheduler.py": "3098c652dc04cb3b1b704959e61d648d0dae49485fd2ddcca4e06435afe2cf38",
+    ".\\experiments\\pba_v3\\v5_common.py": "68e24baaa243b6d7deae85d594da3b8c21cba01ce9d68cb8c3df6586be1da5cd",
+    ".\\experiments\\pba_v3\\verify.py": "0d8351bef280aa5b7e0ce099f397f6034fd4941fcc680fa698633aa96c30f301",
+    ".\\experiments\\pba_v3\\repository.py": "c39cb4b2fa2af6aa725f5a504ac873009290e312742d6214337113de24b11024",
+    ".\\experiments\\e7_baselines\\run_e7.py": "bd07a5abd2fb86765531685b67cd74594ca6b5e39ad6416ffc512d9115d5956e"
+  }
+}

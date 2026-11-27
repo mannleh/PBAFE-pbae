@@ -1,0 +1,4682 @@
+[
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7581730769230769,
+    "precision": 0.7940584088620343,
+    "recall": 0.7253909843606255,
+    "balanced_accuracy": 0.7507020639218243,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 7,
+    "prevented_bad_rounds": 32,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 32,
+    "discarded_steps": 1056,
+    "audit_bytes": 65790878,
+    "audit_calls": 60,
+    "audit_cpu_ms": 5453.125,
+    "wall_s": 93.5985847999982,
+    "reference_model_sha256": "7d35668afdd8a16882f303f93145de1afc740bb5a68b1c08c4bccb5c02faad18"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7630637079455977,
+    "precision": 0.7927615270203272,
+    "recall": 0.735510579576817,
+    "balanced_accuracy": 0.7532974584631074,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 11,
+    "prevented_bad_rounds": 28,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 28,
+    "discarded_steps": 924,
+    "audit_bytes": 62993321,
+    "audit_calls": 60,
+    "audit_cpu_ms": 5406.25,
+    "wall_s": 94.2767290000047,
+    "reference_model_sha256": "5690b962499feb49e9cee3e454874126d51f50c38c1f54df23a4456d2f11c8ed"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7504816955684008,
+    "precision": 0.7876643073811931,
+    "recall": 0.7166513339466422,
+    "balanced_accuracy": 0.7433201905220614,
+    "attack_rounds": 37,
+    "attacked_updates_applied": 11,
+    "prevented_bad_rounds": 26,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 26,
+    "discarded_steps": 858,
+    "audit_bytes": 70585125,
+    "audit_calls": 60,
+    "audit_cpu_ms": 7796.875,
+    "wall_s": 121.23049170000013,
+    "reference_model_sha256": "0f9ec5f11926b39633a69da2dc8e212f103c1b36051bc7e2f6b9cf47a9e49281"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7545350172215843,
+    "precision": 0.7533241632278771,
+    "recall": 0.7557497700091996,
+    "balanced_accuracy": 0.7305583461217959,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 22,
+    "prevented_bad_rounds": 13,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 13,
+    "discarded_steps": 429,
+    "audit_bytes": 74575342,
+    "audit_calls": 60,
+    "audit_cpu_ms": 8031.25,
+    "wall_s": 118.32110070000635,
+    "reference_model_sha256": "c06cd0bc3c03e88d9eb7e2cd3c3a3a962f536afd1d761248a7fccc70eb391b3c"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7625323605554247,
+    "precision": 0.7807228915662651,
+    "recall": 0.7451701931922723,
+    "balanced_accuracy": 0.7479958304406049,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 8,
+    "prevented_bad_rounds": 30,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 30,
+    "discarded_steps": 990,
+    "audit_bytes": 57796407,
+    "audit_calls": 60,
+    "audit_cpu_ms": 7015.625,
+    "wall_s": 121.91404689999763,
+    "reference_model_sha256": "e456f6696538596dbface952974ee232913e41de1cde53b40cc82c080887779e"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7526935605111501,
+    "precision": 0.8266373142542652,
+    "recall": 0.6908923643054278,
+    "balanced_accuracy": 0.7591920748142692,
+    "attack_rounds": 36,
+    "attacked_updates_applied": 5,
+    "prevented_bad_rounds": 31,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 31,
+    "discarded_steps": 1023,
+    "audit_bytes": 60594448,
+    "audit_calls": 60,
+    "audit_cpu_ms": 6328.125,
+    "wall_s": 100.80635569998412,
+    "reference_model_sha256": "8e37bc67a9ef1a31ed2d5dd89ce4e60cd6a2125a9c57d05fbd4bbcc824f97a42"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7584529311603015,
+    "precision": 0.8048528652555498,
+    "recall": 0.7171113155473781,
+    "balanced_accuracy": 0.7550507289675554,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 16,
+    "prevented_bad_rounds": 23,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 23,
+    "discarded_steps": 759,
+    "audit_bytes": 65787733,
+    "audit_calls": 60,
+    "audit_cpu_ms": 6375.0,
+    "wall_s": 104.48214720000396,
+    "reference_model_sha256": "36be2d7373b2385fcb38a1b82078929494a35c25621fc4558ae01df2ce2ff8e3"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7409790852677545,
+    "precision": 0.7404685346807534,
+    "recall": 0.7414903403863845,
+    "balanced_accuracy": 0.7160354221099502,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 6,
+    "prevented_bad_rounds": 29,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 29,
+    "discarded_steps": 957,
+    "audit_bytes": 56995824,
+    "audit_calls": 60,
+    "audit_cpu_ms": 5375.0,
+    "wall_s": 97.79346760001499,
+    "reference_model_sha256": "bc34d6e9e361332feb007a53fa711f57d827bd818a47517009210dbabf6b14ff"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7435715970747819,
+    "precision": 0.7631961259079904,
+    "recall": 0.7249310027598896,
+    "balanced_accuracy": 0.7285662680831211,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 8,
+    "prevented_bad_rounds": 30,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 30,
+    "discarded_steps": 990,
+    "audit_bytes": 65388338,
+    "audit_calls": 60,
+    "audit_cpu_ms": 7578.125,
+    "wall_s": 136.84242719999747,
+    "reference_model_sha256": "8550d18a8bb5b857b8fd4e63a5f29d928f6a0bbc5982277922f8562b9bf1a2dd"
+  },
+  {
+    "K": 100,
+    "arm": "drop_neutral_b3",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7514478764478765,
+    "precision": 0.7903553299492386,
+    "recall": 0.7161913523459061,
+    "balanced_accuracy": 0.7450069576625478,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 7,
+    "prevented_bad_rounds": 32,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 32,
+    "discarded_steps": 1056,
+    "audit_bytes": 55401164,
+    "audit_calls": 60,
+    "audit_cpu_ms": 6375.0,
+    "wall_s": 137.14332440000726,
+    "reference_model_sha256": "20729569164b557b088cc46a85c6d3bb1cf343bb3d908cc1dcb97ebda1957567"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.760627415321664,
+    "precision": 0.7519101123595505,
+    "recall": 0.7695492180312787,
+    "balanced_accuracy": 0.7336245542511268,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 19.951533000014024,
+    "reference_model_sha256": "e0af589ea0c18d25d510f3cf080d4d2da766f84d0e0b25116fdd446265b14d06"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7600369173973234,
+    "precision": 0.7625,
+    "recall": 0.7575896964121435,
+    "balanced_accuracy": 0.7383238733977475,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 18.37262599999667,
+    "reference_model_sha256": "ee2df349ca67f80c900070842e2795b3eca2c4f8966310b99f99f03963cdea67"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7465206479580196,
+    "precision": 0.7406066093254866,
+    "recall": 0.7525298988040479,
+    "balanced_accuracy": 0.7193646208149483,
+    "attack_rounds": 37,
+    "attacked_updates_applied": 37,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 19.520078999979887,
+    "reference_model_sha256": "1e231974bfd46acfd7b001d87335dc2315bd59642d8bb2b2f2e0e2fbfc1268d4"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7542831379621279,
+    "precision": 0.7396109637488948,
+    "recall": 0.7695492180312787,
+    "balanced_accuracy": 0.7234931194208968,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 35,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 23.074274899990996,
+    "reference_model_sha256": "87f9c903713d086731d176b7e57d2cdc685f2e8c045e1fc427b6f8377c06b2a2"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7611060743427018,
+    "precision": 0.7502234137622877,
+    "recall": 0.7723091076356946,
+    "balanced_accuracy": 0.7330877411124803,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 38,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 21.208006800006842,
+    "reference_model_sha256": "c6e37a10b32c6b903b010bb818e88b7199f9d449fb56d27061644845b49b4a5e"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7539739027283511,
+    "precision": 0.7785399314061734,
+    "recall": 0.7309107635694572,
+    "balanced_accuracy": 0.7416875833181349,
+    "attack_rounds": 36,
+    "attacked_updates_applied": 36,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 23.642123500001617,
+    "reference_model_sha256": "ffd8860993e31b96cd8c1ccaf2360d75ee1fa31603763d73e096ce94a6d73e88"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7593860684769775,
+    "precision": 0.7802037845705968,
+    "recall": 0.7396504139834407,
+    "balanced_accuracy": 0.7457835859621476,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 34.132373200001894,
+    "reference_model_sha256": "d295131fa5fb85ac03ebc7a83cd1253e5ada09da5a06d052f25eabdf71cf30c6"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7477855477855477,
+    "precision": 0.7580340264650284,
+    "recall": 0.7378104875804968,
+    "balanced_accuracy": 0.7287080915449033,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 35,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 29.101194399991073,
+    "reference_model_sha256": "5b28f0c0474afcaded5e5b49f3b6976d5e6b6498294a9d683073e094054e37db"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7500579105860552,
+    "precision": 0.7554829678021465,
+    "recall": 0.7447102115915364,
+    "balanced_accuracy": 0.7288720827946729,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 38,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 29.55673830001615,
+    "reference_model_sha256": "733cb30fabf38a26980294d991deed0910c7776ba26570fcccf60de9eed6738d"
+  },
+  {
+    "K": 100,
+    "arm": "drop_noaudit",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7508060801473975,
+    "precision": 0.7518450184501845,
+    "recall": 0.749770009199632,
+    "balanced_accuracy": 0.7275684657170121,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 23.646165299986023,
+    "reference_model_sha256": "335e45465362a7a967e0458f7b6af7e3639c1edf264ca7db962fbb5b0d9bb9ed"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7613348676639816,
+    "precision": 0.7618608935974206,
+    "recall": 0.7608095676172953,
+    "balanced_accuracy": 0.7388385187484068,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 32,
+    "prevented_bad_rounds": 7,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 7,
+    "discarded_steps": 231,
+    "audit_bytes": 83367566,
+    "audit_calls": 60,
+    "audit_cpu_ms": 12859.375,
+    "wall_s": 219.45519590002368,
+    "reference_model_sha256": "a01716cf17d3b0fd835c9af0378d608a3eeac966d4408c9814534365f7d391ef"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.762150739610237,
+    "precision": 0.7784172661870503,
+    "recall": 0.7465501379944802,
+    "balanced_accuracy": 0.7467690449008546,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 29,
+    "prevented_bad_rounds": 10,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 10,
+    "discarded_steps": 330,
+    "audit_bytes": 78171981,
+    "audit_calls": 60,
+    "audit_cpu_ms": 12812.5,
+    "wall_s": 217.17862059999607,
+    "reference_model_sha256": "843372f4d8567340af51de9b74ef4af89b29e3569cbf48b8cfb4f541f47827c5"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.751054852320675,
+    "precision": 0.765774378585086,
+    "recall": 0.7368905243790248,
+    "balanced_accuracy": 0.7342722063297096,
+    "attack_rounds": 37,
+    "attacked_updates_applied": 29,
+    "prevented_bad_rounds": 8,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 8,
+    "discarded_steps": 264,
+    "audit_bytes": 82568582,
+    "audit_calls": 60,
+    "audit_cpu_ms": 12750.0,
+    "wall_s": 206.66001930000493,
+    "reference_model_sha256": "2d76ac354aff4ad51b65a63ab170ad206e56157eaf88d1e584d7d067f774b521"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7542102867546655,
+    "precision": 0.7463963963963964,
+    "recall": 0.7621895124195032,
+    "balanced_accuracy": 0.7269326532524679,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 29,
+    "prevented_bad_rounds": 6,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 6,
+    "discarded_steps": 198,
+    "audit_bytes": 80169241,
+    "audit_calls": 60,
+    "audit_cpu_ms": 9343.75,
+    "wall_s": 130.7709853000124,
+    "reference_model_sha256": "e6c73d730cf692de89d6da612bf197e8b4bbcf35059eb19db9578edd390af17b"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7609890109890111,
+    "precision": 0.7575205104831358,
+    "recall": 0.764489420423183,
+    "balanced_accuracy": 0.7365711067066627,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 28,
+    "prevented_bad_rounds": 10,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 10,
+    "discarded_steps": 330,
+    "audit_bytes": 76573421,
+    "audit_calls": 60,
+    "audit_cpu_ms": 8890.625,
+    "wall_s": 135.24473119998584,
+    "reference_model_sha256": "09b2d0614b5f2bb64523aca87c5e9e602a1d8155767d19040d2200d8039cbe07"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.75244140625,
+    "precision": 0.8017689906347555,
+    "recall": 0.7088316467341307,
+    "balanced_accuracy": 0.7500894268719942,
+    "attack_rounds": 36,
+    "attacked_updates_applied": 24,
+    "prevented_bad_rounds": 12,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 12,
+    "discarded_steps": 396,
+    "audit_bytes": 76573535,
+    "audit_calls": 60,
+    "audit_cpu_ms": 9140.625,
+    "wall_s": 134.0360535000218,
+    "reference_model_sha256": "566fbd3415592e5d6b62de852ba214c00e4c924551b76418e14b3c45867cd057"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7591136526090064,
+    "precision": 0.7874443895205141,
+    "recall": 0.7327506899724011,
+    "balanced_accuracy": 0.748631642905149,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 34,
+    "prevented_bad_rounds": 5,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 5,
+    "discarded_steps": 165,
+    "audit_bytes": 77771137,
+    "audit_calls": 60,
+    "audit_cpu_ms": 8250.0,
+    "wall_s": 115.73771560000023,
+    "reference_model_sha256": "c9ec9eee95150bc30fe0272dbb5401339f40b6f744de14847c54c21d2d5c1ee7"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7442407146215326,
+    "precision": 0.7610576923076923,
+    "recall": 0.7281508739650414,
+    "balanced_accuracy": 0.7279856231818636,
+    "attack_rounds": 35,
+    "attacked_updates_applied": 26,
+    "prevented_bad_rounds": 9,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 9,
+    "discarded_steps": 297,
+    "audit_bytes": 71776124,
+    "audit_calls": 60,
+    "audit_cpu_ms": 7312.5,
+    "wall_s": 110.95785690000048,
+    "reference_model_sha256": "6dc08c716b9208a669b8bd62b59e2e2c328a16484491798f2e1d902e414a86a9"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7459686842720262,
+    "precision": 0.7581947743467934,
+    "recall": 0.734130634774609,
+    "balanced_accuracy": 0.727689632830897,
+    "attack_rounds": 38,
+    "attacked_updates_applied": 32,
+    "prevented_bad_rounds": 6,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 6,
+    "discarded_steps": 198,
+    "audit_bytes": 78570728,
+    "audit_calls": 60,
+    "audit_cpu_ms": 7562.5,
+    "wall_s": 110.176194700005,
+    "reference_model_sha256": "178b3c1338509716ba2ac1c7751ce1a95a13332eb3f6a6df2c5b5122e56ac608"
+  },
+  {
+    "K": 100,
+    "arm": "drop_uniform_b3",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 33,
+    "budget": 10,
+    "params": 49921,
+    "attack_clients": [
+      3,
+      56,
+      69,
+      86,
+      84,
+      67,
+      96
+    ],
+    "attack_shares": [
+      [
+        554,
+        3
+      ],
+      [
+        436,
+        56
+      ],
+      [
+        395,
+        69
+      ],
+      [
+        375,
+        86
+      ],
+      [
+        355,
+        84
+      ],
+      [
+        303,
+        67
+      ],
+      [
+        283,
+        96
+      ]
+    ],
+    "f1": 0.7540360873694207,
+    "precision": 0.7791952894995093,
+    "recall": 0.7304507819687213,
+    "balanced_accuracy": 0.7420052376437254,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 29,
+    "prevented_bad_rounds": 10,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 10,
+    "discarded_steps": 330,
+    "audit_bytes": 74574643,
+    "audit_calls": 60,
+    "audit_cpu_ms": 6109.375,
+    "wall_s": 93.3659789999947,
+    "reference_model_sha256": "21d0c287c997cfff038d52851e562829798d5d526678676f5edb505c8c8396f7"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.757761053621825,
+    "precision": 0.7752646775745909,
+    "recall": 0.7410303587856486,
+    "balanced_accuracy": 0.7426400424815428,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 3,
+    "prevented_bad_rounds": 37,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 37,
+    "discarded_steps": 2442,
+    "audit_bytes": 122485209,
+    "audit_calls": 60,
+    "audit_cpu_ms": 12062.5,
+    "wall_s": 214.3258235999965,
+    "reference_model_sha256": "ba6a8fd2b8439426b71f40850f3a57a1c7ff34027c9ba444bf0d3edec47cfe23"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7628373537138764,
+    "precision": 0.7933432687531048,
+    "recall": 0.734590616375345,
+    "balanced_accuracy": 0.7533851219883296,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 8,
+    "prevented_bad_rounds": 32,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 32,
+    "discarded_steps": 2112,
+    "audit_bytes": 134872028,
+    "audit_calls": 60,
+    "audit_cpu_ms": 13531.25,
+    "wall_s": 217.35322859999724,
+    "reference_model_sha256": "0aedb5405a56f79af1cda8d6a88ad32e78fbedecc6ae01968493007e9e961b23"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7496430271299381,
+    "precision": 0.7766272189349113,
+    "recall": 0.7244710211591536,
+    "balanced_accuracy": 0.738193889550004,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 8,
+    "prevented_bad_rounds": 31,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 31,
+    "discarded_steps": 2046,
+    "audit_bytes": 138066691,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15453.125,
+    "wall_s": 259.54342969998834,
+    "reference_model_sha256": "b89313af58932b1fbf8493f55eab43886acc0a70a33b04e0e775ebc5a4ef9ba1"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7607965987916759,
+    "precision": 0.7407407407407407,
+    "recall": 0.7819687212511499,
+    "balanced_accuracy": 0.7280599356529572,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 4,
+    "prevented_bad_rounds": 36,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 36,
+    "discarded_steps": 2376,
+    "audit_bytes": 127281228,
+    "audit_calls": 60,
+    "audit_cpu_ms": 13937.5,
+    "wall_s": 260.17759039998055,
+    "reference_model_sha256": "5b3b2fea73558ea7a7f2f8f364b0eff7dab842f8ff4b16b3a7f0d6a6a039c785"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7637571157495257,
+    "precision": 0.7884427032321254,
+    "recall": 0.7405703771849126,
+    "balanced_accuracy": 0.7519938413854464,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 14,
+    "prevented_bad_rounds": 26,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 26,
+    "discarded_steps": 1716,
+    "audit_bytes": 136067452,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15109.375,
+    "wall_s": 262.63402550001047,
+    "reference_model_sha256": "6becd66be87fa5758dd680de035a524e708a1d886aea40ba39dc1675ae3c8f1c"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7540574282147317,
+    "precision": 0.8246859639541234,
+    "recall": 0.6945722171113156,
+    "balanced_accuracy": 0.759389065839338,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 4,
+    "prevented_bad_rounds": 36,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 36,
+    "discarded_steps": 2376,
+    "audit_bytes": 124886118,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15562.5,
+    "wall_s": 260.20906890000333,
+    "reference_model_sha256": "673e5f373bd67cdae51d54320f03a96e4a9ba64a3211382d42cd4cfb52f637cd"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7654558575896079,
+    "precision": 0.8023197175995965,
+    "recall": 0.7318307267709292,
+    "balanced_accuracy": 0.7585769186976223,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 4,
+    "prevented_bad_rounds": 36,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 36,
+    "discarded_steps": 2376,
+    "audit_bytes": 134875389,
+    "audit_calls": 60,
+    "audit_cpu_ms": 17078.125,
+    "wall_s": 262.3258647999901,
+    "reference_model_sha256": "cbd77fa0adcca020b86413fb44f820034eaefba60b47200acaa44821112dc3bf"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.750054957133436,
+    "precision": 0.7183157894736842,
+    "recall": 0.7847286108555658,
+    "balanced_accuracy": 0.7091770107947051,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 4,
+    "prevented_bad_rounds": 35,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 35,
+    "discarded_steps": 2310,
+    "audit_bytes": 136471072,
+    "audit_calls": 60,
+    "audit_cpu_ms": 16328.125,
+    "wall_s": 256.6780199999921,
+    "reference_model_sha256": "3c25822bfda605d79f28ca2917626bc55705f8222dd7c1323ec97183b2c2561b"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7427759355755567,
+    "precision": 0.765625,
+    "recall": 0.7212511499540019,
+    "balanced_accuracy": 0.72919074474699,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 8,
+    "prevented_bad_rounds": 32,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 32,
+    "discarded_steps": 2112,
+    "audit_bytes": 124880023,
+    "audit_calls": 60,
+    "audit_cpu_ms": 11125.0,
+    "wall_s": 186.97700499999337,
+    "reference_model_sha256": "78da4f9eb8470f0ecdde00a7f49cfa2291298998303f24a8e06bfa63cc322579"
+  },
+  {
+    "K": 200,
+    "arm": "drop_neutral_b3",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7527193618564176,
+    "precision": 0.7931737137035151,
+    "recall": 0.7161913523459061,
+    "balanced_accuracy": 0.7469237156034021,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 10,
+    "prevented_bad_rounds": 30,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 30,
+    "discarded_steps": 1980,
+    "audit_bytes": 137267275,
+    "audit_calls": 60,
+    "audit_cpu_ms": 12171.875,
+    "wall_s": 186.5819715000107,
+    "reference_model_sha256": "7c4918a4c9fe3bc6224ac702be9ee2fdd656b374d717cb9969775fdd89bb0ef2"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7573696145124716,
+    "precision": 0.7468694096601073,
+    "recall": 0.7681692732290708,
+    "balanced_accuracy": 0.7291010659683141,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 19.00132989999838,
+    "reference_model_sha256": "2009fc5f4598efe2aa56f8eb88f8e8e9bd3bd2d12d0e495ab2e10bb011bcc754"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.760166358595194,
+    "precision": 0.7636954503249768,
+    "recall": 0.7566697332106715,
+    "balanced_accuracy": 0.7389591820489283,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 13.4218097999983,
+    "reference_model_sha256": "017e7353659921772eebf360f7941a05578a55d0e787e3b665dd85b61be5d9bc"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7445123331070377,
+    "precision": 0.732739420935412,
+    "recall": 0.7566697332106715,
+    "balanced_accuracy": 0.714041328817822,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 14.914490299997851,
+    "reference_model_sha256": "caf0d56e824ad8eb3d3e119e49c8b22e998f188137113da700d8109a5a3fc072"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7541430192962543,
+    "precision": 0.7445091887046168,
+    "recall": 0.7640294388224471,
+    "balanced_accuracy": 0.7259358585130855,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 21.963901999988593,
+    "reference_model_sha256": "2ea10380f690bb11186f4ce5f3d10899af5ed15ea46c6f2b94bd3b9edbd72527"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7634798368826461,
+    "precision": 0.7522321428571429,
+    "recall": 0.7750689972401104,
+    "balanced_accuracy": 0.7355629761666049,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 19.024306199979037,
+    "reference_model_sha256": "27267a1c9d7194877420b9e5a28d7cb190345635b4fe620f0f48e447db8c8c43"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7482993197278912,
+    "precision": 0.7635232168501676,
+    "recall": 0.733670653173873,
+    "balanced_accuracy": 0.731566980475217,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 18.246415700006764,
+    "reference_model_sha256": "a469395810ad99b65058b3db4a912191d6ed3338aab25b3e2d620c8ff867a18a"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7590418036636918,
+    "precision": 0.7754318618042226,
+    "recall": 0.7433302667893285,
+    "balanced_accuracy": 0.7435161739204035,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 23.223426899989136,
+    "reference_model_sha256": "40b11319c88a1900c0d15fafb6407a776ed245b3f4abd448f9a559ac004f09be"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7464950586072167,
+    "precision": 0.7459807073954984,
+    "recall": 0.7470101195952162,
+    "balanced_accuracy": 0.7220811824701163,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 39,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 24.281909800018184,
+    "reference_model_sha256": "4a7acbd3e124381895d305d5491d38a73e4bc63321dfe1cb9108cbc7129796f6"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7493049119555143,
+    "precision": 0.7549019607843137,
+    "recall": 0.7437902483900644,
+    "balanced_accuracy": 0.7281382786309577,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 22.344802399980836,
+    "reference_model_sha256": "5789a761ac4592a45d2a89b6a6599f1ea457d7deebd1994af09f1e305826b7b3"
+  },
+  {
+    "K": 200,
+    "arm": "drop_noaudit",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7506762849413886,
+    "precision": 0.7360742705570292,
+    "recall": 0.765869365225391,
+    "balanced_accuracy": 0.7194626125141194,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 40,
+    "prevented_bad_rounds": 0,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 0,
+    "discarded_steps": 0,
+    "audit_bytes": 0,
+    "audit_calls": 0,
+    "audit_cpu_ms": 0.0,
+    "wall_s": 26.469233300013002,
+    "reference_model_sha256": "1bbb0e4bc16319fc51446ac510ce2dd4a7cdcda3e3d2509bf1a6b68c3fb247ec"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310001,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7573133629768313,
+    "precision": 0.7708432586946165,
+    "recall": 0.7442502299908004,
+    "balanced_accuracy": 0.7404164622024101,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 22,
+    "prevented_bad_rounds": 18,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 18,
+    "discarded_steps": 1188,
+    "audit_bytes": 155645527,
+    "audit_calls": 60,
+    "audit_cpu_ms": 19937.5,
+    "wall_s": 297.99554689999786,
+    "reference_model_sha256": "bc24b8a023197fb8a852b31246a434347b3653ad122215e4824b6cab72f4aac5"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310002,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7616361071932299,
+    "precision": 0.7788461538461539,
+    "recall": 0.7451701931922723,
+    "balanced_accuracy": 0.746626717625709,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 25,
+    "prevented_bad_rounds": 15,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 15,
+    "discarded_steps": 990,
+    "audit_bytes": 156444215,
+    "audit_calls": 60,
+    "audit_cpu_ms": 21484.375,
+    "wall_s": 299.2476894999854,
+    "reference_model_sha256": "db54863d58383f6bb3e29683a551f3a6591cbac12d38f88c31468badbf1d55a6"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310003,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7476547842401502,
+    "precision": 0.7626794258373206,
+    "recall": 0.7332106715731371,
+    "balanced_accuracy": 0.7307893445488907,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 24,
+    "prevented_bad_rounds": 15,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 15,
+    "discarded_steps": 990,
+    "audit_bytes": 158042044,
+    "audit_calls": 60,
+    "audit_cpu_ms": 20078.125,
+    "wall_s": 297.9331873000192,
+    "reference_model_sha256": "39ce71d5c5aa447358fbb05224d33a20e76799db5a39281c5c00f044fb2770d1"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310004,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7536298686333256,
+    "precision": 0.7551963048498845,
+    "recall": 0.7520699172033118,
+    "balanced_accuracy": 0.7309090002226855,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 24,
+    "prevented_bad_rounds": 16,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 16,
+    "discarded_steps": 1056,
+    "audit_bytes": 156844215,
+    "audit_calls": 60,
+    "audit_cpu_ms": 16718.75,
+    "wall_s": 246.13879590001306,
+    "reference_model_sha256": "2ac847df690e4a23f766bde5ae3a717fe8e3239b9a42a9f05c4cca698b9c2a1d"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310005,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7631517418751461,
+    "precision": 0.776034236804565,
+    "recall": 0.7506899724011039,
+    "balanced_accuracy": 0.7463745590373537,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 25,
+    "prevented_bad_rounds": 15,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 15,
+    "discarded_steps": 990,
+    "audit_bytes": 152446285,
+    "audit_calls": 60,
+    "audit_cpu_ms": 16671.875,
+    "wall_s": 244.28747869998915,
+    "reference_model_sha256": "52afb9f852ec15997bbdcf7d79565bfb8e15a9e75cb6c6bcf9ceeea4e652bbc4"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310006,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7550970277573077,
+    "precision": 0.8102266736953084,
+    "recall": 0.7069917203311867,
+    "balanced_accuracy": 0.7549197374930852,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 19,
+    "prevented_bad_rounds": 21,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 21,
+    "discarded_steps": 1386,
+    "audit_bytes": 150050227,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15828.125,
+    "wall_s": 248.68369320000056,
+    "reference_model_sha256": "51f1846ef52a2a0f3dbd56c0a33e3361d56e0bfa948f5763f064da11f8b9e18a"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310007,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7589545014520814,
+    "precision": 0.8008171603677222,
+    "recall": 0.7212511499540019,
+    "balanced_accuracy": 0.753834775415117,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 26,
+    "prevented_bad_rounds": 14,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 14,
+    "discarded_steps": 924,
+    "audit_bytes": 158442441,
+    "audit_calls": 60,
+    "audit_cpu_ms": 17234.375,
+    "wall_s": 257.7508447,
+    "reference_model_sha256": "9fda8c2a350fb6c724327929b8b58a0b9af9ac1e14bf1546d63154a2248a3c27"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310008,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7437747265534093,
+    "precision": 0.7527084314649082,
+    "recall": 0.735050597976081,
+    "balanced_accuracy": 0.723768453423966,
+    "attack_rounds": 39,
+    "attacked_updates_applied": 24,
+    "prevented_bad_rounds": 15,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 15,
+    "discarded_steps": 990,
+    "audit_bytes": 164838152,
+    "audit_calls": 60,
+    "audit_cpu_ms": 17546.875,
+    "wall_s": 255.8835099999851,
+    "reference_model_sha256": "b1a741d60238442891a5e88978b7ca8b0078a1915aaa8b833418baf3e0849a8e"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310009,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.7454502481682818,
+    "precision": 0.7666504618376276,
+    "recall": 0.7253909843606255,
+    "balanced_accuracy": 0.7312606619503018,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 26,
+    "prevented_bad_rounds": 14,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 14,
+    "discarded_steps": 924,
+    "audit_bytes": 151246721,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15734.375,
+    "wall_s": 251.49819959999877,
+    "reference_model_sha256": "a0eb34739a4c399945412431d10d4203ec939197a581569538ac282091d5ddcf"
+  },
+  {
+    "K": 200,
+    "arm": "drop_uniform_b3",
+    "seed": 310010,
+    "hidden": 256,
+    "selected": 66,
+    "budget": 20,
+    "params": 49921,
+    "attack_clients": [
+      168,
+      3,
+      198,
+      56,
+      69,
+      86,
+      173,
+      84,
+      67,
+      127,
+      96,
+      100,
+      193
+    ],
+    "attack_shares": [
+      [
+        376,
+        168
+      ],
+      [
+        259,
+        3
+      ],
+      [
+        228,
+        198
+      ],
+      [
+        208,
+        56
+      ],
+      [
+        206,
+        69
+      ],
+      [
+        205,
+        86
+      ],
+      [
+        190,
+        173
+      ],
+      [
+        180,
+        84
+      ],
+      [
+        168,
+        67
+      ],
+      [
+        157,
+        127
+      ],
+      [
+        154,
+        96
+      ],
+      [
+        148,
+        100
+      ],
+      [
+        144,
+        193
+      ]
+    ],
+    "f1": 0.751458576429405,
+    "precision": 0.7626717195641876,
+    "recall": 0.7405703771849126,
+    "balanced_accuracy": 0.7331000845398823,
+    "attack_rounds": 40,
+    "attacked_updates_applied": 31,
+    "prevented_bad_rounds": 9,
+    "honest_rounds_rejected": 0,
+    "rejected_rounds": 9,
+    "discarded_steps": 594,
+    "audit_bytes": 155243159,
+    "audit_calls": 60,
+    "audit_cpu_ms": 15359.375,
+    "wall_s": 219.73528560000705,
+    "reference_model_sha256": "9dbb0453f9b8afb44dad2c0d6e8e0ba7020504bd11197de30232e3b3dba19f43"
+  }
+]

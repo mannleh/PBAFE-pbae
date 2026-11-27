@@ -1,0 +1,67 @@
+{
+  "cases": [
+    {
+      "case": "sealed_honest",
+      "record_outcome": "PASS",
+      "full_outcome": "PASS",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": true
+    },
+    {
+      "case": "sealed_withheld_opening",
+      "record_outcome": "INCONCLUSIVE_EVIDENCE",
+      "full_outcome": "INCONCLUSIVE_EVIDENCE",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": false
+    },
+    {
+      "case": "sealed_record_tamper",
+      "record_outcome": "FAIL_POLICY",
+      "full_outcome": "FAIL_POLICY",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": false
+    },
+    {
+      "case": "sealed_roster_substitution",
+      "record_outcome": "FAIL_ROSTER",
+      "full_outcome": "FAIL_ROSTER",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": false
+    },
+    {
+      "case": "segment_honest",
+      "record_outcome": "PASS",
+      "full_outcome": "PASS",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": true
+    },
+    {
+      "case": "segment_sum_tamper",
+      "record_outcome": "FAIL_RESULT_REPLAY",
+      "full_outcome": "PASS",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": true
+    },
+    {
+      "case": "segment_contribution_tamper",
+      "record_outcome": "INCONCLUSIVE_EVIDENCE",
+      "full_outcome": "PASS",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": true
+    },
+    {
+      "case": "predicting_open_schedule",
+      "record_outcome": "FAIL_POLICY",
+      "full_outcome": "FAIL_POLICY",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": false
+    },
+    {
+      "case": "predicting_sealed_schedule",
+      "record_outcome": "FAIL_POLICY",
+      "full_outcome": "FAIL_POLICY",
+      "record_aggregate_verified": false,
+      "full_aggregate_verified": false
+    }
+  ]
+}

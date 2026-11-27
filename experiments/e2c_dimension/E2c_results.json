@@ -1,0 +1,134 @@
+[
+  {
+    "K": 30,
+    "dimension": 6241,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 82.40366666965808,
+    "cpu_ms": 78.125,
+    "bytes": 155927,
+    "requests": 24,
+    "rss_mb": 52.125696
+  },
+  {
+    "K": 30,
+    "dimension": 6241,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 71.67666666403723,
+    "cpu_ms": 72.91666666666667,
+    "bytes": 155927,
+    "requests": 24,
+    "rss_mb": 53.100544
+  },
+  {
+    "K": 30,
+    "dimension": 49921,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 384.5924999914132,
+    "cpu_ms": 364.5833333333333,
+    "bytes": 1204248,
+    "requests": 24,
+    "rss_mb": 65.179648
+  },
+  {
+    "K": 30,
+    "dimension": 49921,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 401.8429333421712,
+    "cpu_ms": 380.2083333333333,
+    "bytes": 1204248,
+    "requests": 24,
+    "rss_mb": 65.634304
+  },
+  {
+    "K": 30,
+    "dimension": 99841,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 749.5416999833348,
+    "cpu_ms": 703.125,
+    "bytes": 2402328,
+    "requests": 24,
+    "rss_mb": 82.456576
+  },
+  {
+    "K": 30,
+    "dimension": 99841,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 748.4205000024909,
+    "cpu_ms": 723.9583333333334,
+    "bytes": 2402328,
+    "requests": 24,
+    "rss_mb": 82.300928
+  },
+  {
+    "K": 100,
+    "dimension": 6241,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 57.002533333919324,
+    "cpu_ms": 57.291666666666664,
+    "bytes": 156733,
+    "requests": 24,
+    "rss_mb": 63.389696
+  },
+  {
+    "K": 100,
+    "dimension": 6241,
+    "budget": 10,
+    "rounds": 3,
+    "wall_ms": 170.10346666211262,
+    "cpu_ms": 166.66666666666666,
+    "bytes": 519851,
+    "requests": 73,
+    "rss_mb": 64.364544
+  },
+  {
+    "K": 100,
+    "dimension": 49921,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 330.10040000469115,
+    "cpu_ms": 333.3333333333333,
+    "bytes": 1205054,
+    "requests": 24,
+    "rss_mb": 100.175872
+  },
+  {
+    "K": 100,
+    "dimension": 49921,
+    "budget": 10,
+    "rounds": 3,
+    "wall_ms": 1193.2073666636522,
+    "cpu_ms": 1078.125,
+    "bytes": 4014252,
+    "requests": 73,
+    "rss_mb": 99.999744
+  },
+  {
+    "K": 100,
+    "dimension": 99841,
+    "budget": 3,
+    "rounds": 3,
+    "wall_ms": 503.9030333282426,
+    "cpu_ms": 489.5833333333333,
+    "bytes": 2403134,
+    "requests": 24,
+    "rss_mb": 155.734016
+  },
+  {
+    "K": 100,
+    "dimension": 99841,
+    "budget": 10,
+    "rounds": 3,
+    "wall_ms": 1083.6539999969925,
+    "cpu_ms": 1083.3333333333333,
+    "bytes": 8007852,
+    "requests": 73,
+    "rss_mb": 158.37184
+  }
+]

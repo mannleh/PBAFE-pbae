@@ -1,0 +1,222 @@
+[
+  {
+    "corpus": "UNSW-NB15",
+    "arm": "drop_noaudit",
+    "n_seeds": 20,
+    "contained_violations": 0.0,
+    "discarded_steps": 0.0,
+    "audit_traffic_MB": 0.0,
+    "contained_per_discarded_step": null,
+    "contained_per_MB": null,
+    "f1": 0.7259717481255988
+  },
+  {
+    "corpus": "UNSW-NB15",
+    "arm": "drop_uniform_b3",
+    "n_seeds": 20,
+    "contained_violations": 3.6999999999999993,
+    "discarded_steps": 37.0,
+    "audit_traffic_MB": 3.19446315,
+    "contained_per_discarded_step": 0.09999999999999998,
+    "contained_per_MB": 1.1582540872321534,
+    "f1": 0.7242161610834549
+  },
+  {
+    "corpus": "UNSW-NB15",
+    "arm": "drop_neutral_b3",
+    "n_seeds": 20,
+    "contained_violations": 11.95,
+    "discarded_steps": 119.5,
+    "audit_traffic_MB": 2.6814301,
+    "contained_per_discarded_step": 0.09999999999999999,
+    "contained_per_MB": 4.456577107864941,
+    "f1": 0.7248043901133125
+  },
+  {
+    "corpus": "UNSW-NB15",
+    "arm": "drop_separated_b3",
+    "n_seeds": 20,
+    "contained_violations": 11.95,
+    "discarded_steps": 119.5,
+    "audit_traffic_MB": 2.6814301,
+    "contained_per_discarded_step": 0.09999999999999999,
+    "contained_per_MB": 4.456577107864941,
+    "f1": 0.7248043901133125
+  },
+  {
+    "corpus": "UNSW-NB15",
+    "arm": "drop_full_b30",
+    "n_seeds": 20,
+    "contained_violations": 22.45,
+    "discarded_steps": 224.5,
+    "audit_traffic_MB": 33.1226508,
+    "contained_per_discarded_step": 0.09999999999999999,
+    "contained_per_MB": 0.6777839169804609,
+    "f1": 0.7223458927419857
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.1",
+    "arm": "noaudit",
+    "n_seeds": 20,
+    "contained_violations": 0.0,
+    "discarded_steps": 0.0,
+    "audit_traffic_MB": 0.0,
+    "contained_per_discarded_step": null,
+    "contained_per_MB": null,
+    "f1": 0.5678952670369811
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.1",
+    "arm": "uniform",
+    "n_seeds": 20,
+    "contained_violations": 4.0,
+    "discarded_steps": 55.5,
+    "audit_traffic_MB": 0.9575498,
+    "contained_per_discarded_step": 0.07207207207207207,
+    "contained_per_MB": 4.17732842720034,
+    "f1": 0.5627451741929793
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.1",
+    "arm": "adaptive",
+    "n_seeds": 20,
+    "contained_violations": 13.450000000000001,
+    "discarded_steps": 204.5,
+    "audit_traffic_MB": 0.85250755,
+    "contained_per_discarded_step": 0.06577017114914425,
+    "contained_per_MB": 15.77698637390367,
+    "f1": 0.5214247804433303
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.1",
+    "arm": "neutral",
+    "n_seeds": 20,
+    "contained_violations": 9.900000000000002,
+    "discarded_steps": 113.0,
+    "audit_traffic_MB": 0.87394875,
+    "contained_per_discarded_step": 0.08761061946902657,
+    "contained_per_MB": 11.327895371439116,
+    "f1": 0.554180948638192
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.1",
+    "arm": "separated",
+    "n_seeds": 20,
+    "contained_violations": 12.100000000000001,
+    "discarded_steps": 157.0,
+    "audit_traffic_MB": 0.8512185999999999,
+    "contained_per_discarded_step": 0.07707006369426753,
+    "contained_per_MB": 14.21491494664238,
+    "f1": 0.539823168739469
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.5",
+    "arm": "noaudit",
+    "n_seeds": 20,
+    "contained_violations": 0.0,
+    "discarded_steps": 0.0,
+    "audit_traffic_MB": 0.0,
+    "contained_per_discarded_step": null,
+    "contained_per_MB": null,
+    "f1": 0.5637693326837073
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.5",
+    "arm": "uniform",
+    "n_seeds": 20,
+    "contained_violations": 4.0,
+    "discarded_steps": 55.5,
+    "audit_traffic_MB": 0.9576778499999999,
+    "contained_per_discarded_step": 0.07207207207207207,
+    "contained_per_MB": 4.176769881437688,
+    "f1": 0.553628740416436
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.5",
+    "arm": "adaptive",
+    "n_seeds": 20,
+    "contained_violations": 13.450000000000001,
+    "discarded_steps": 204.5,
+    "audit_traffic_MB": 0.8526225500000001,
+    "contained_per_discarded_step": 0.06577017114914425,
+    "contained_per_MB": 15.774858405985157,
+    "f1": 0.5072985693824995
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.5",
+    "arm": "neutral",
+    "n_seeds": 20,
+    "contained_violations": 9.900000000000002,
+    "discarded_steps": 113.0,
+    "audit_traffic_MB": 0.8740603,
+    "contained_per_discarded_step": 0.08761061946902657,
+    "contained_per_MB": 11.326449674009908,
+    "f1": 0.5340512092899565
+  },
+  {
+    "corpus": "Edge-IIoTset a=0.5",
+    "arm": "separated",
+    "n_seeds": 20,
+    "contained_violations": 12.100000000000001,
+    "discarded_steps": 157.0,
+    "audit_traffic_MB": 0.85133045,
+    "contained_per_discarded_step": 0.07707006369426753,
+    "contained_per_MB": 14.21304735429116,
+    "f1": 0.5320509097582202
+  },
+  {
+    "corpus": "Edge-IIoTset a=1.0",
+    "arm": "noaudit",
+    "n_seeds": 20,
+    "contained_violations": 0.0,
+    "discarded_steps": 0.0,
+    "audit_traffic_MB": 0.0,
+    "contained_per_discarded_step": null,
+    "contained_per_MB": null,
+    "f1": 0.5744788847275498
+  },
+  {
+    "corpus": "Edge-IIoTset a=1.0",
+    "arm": "uniform",
+    "n_seeds": 20,
+    "contained_violations": 4.200000000000003,
+    "discarded_steps": 56.0,
+    "audit_traffic_MB": 0.9548546,
+    "contained_per_discarded_step": 0.07500000000000005,
+    "contained_per_MB": 4.3985754480315675,
+    "f1": 0.5664800428561875
+  },
+  {
+    "corpus": "Edge-IIoTset a=1.0",
+    "arm": "adaptive",
+    "n_seeds": 20,
+    "contained_violations": 12.000000000000002,
+    "discarded_steps": 193.0,
+    "audit_traffic_MB": 0.85575955,
+    "contained_per_discarded_step": 0.062176165803108814,
+    "contained_per_MB": 14.022630539150864,
+    "f1": 0.5395590155362053
+  },
+  {
+    "corpus": "Edge-IIoTset a=1.0",
+    "arm": "neutral",
+    "n_seeds": 20,
+    "contained_violations": 9.8,
+    "discarded_steps": 111.5,
+    "audit_traffic_MB": 0.87926125,
+    "contained_per_discarded_step": 0.08789237668161436,
+    "contained_per_MB": 11.145720341934778,
+    "f1": 0.5606010590144734
+  },
+  {
+    "corpus": "Edge-IIoTset a=1.0",
+    "arm": "separated",
+    "n_seeds": 20,
+    "contained_violations": 11.400000000000002,
+    "discarded_steps": 156.5,
+    "audit_traffic_MB": 0.8600949499999999,
+    "contained_per_discarded_step": 0.07284345047923324,
+    "contained_per_MB": 13.254350580712051,
+    "f1": 0.5502595905934755
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "out": ".\\experiments\\e12_scale\\results",
+  "clients": [
+    100,
+    200
+  ],
+  "seeds": 10,
+  "seed_start": 310001,
+  "hidden": 256,
+  "rounds": 60,
+  "workers": 3,
+  "arms": [
+    "drop_noaudit",
+    "drop_uniform_b3",
+    "drop_neutral_b3"
+  ]
+}

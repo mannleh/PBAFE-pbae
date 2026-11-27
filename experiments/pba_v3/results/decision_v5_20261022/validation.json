@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "checks": 2425950,
+  "errors": [],
+  "sections": {
+    "scheduler": {
+      "seed_count": 100,
+      "rows": 2800,
+      "semantic_checks": 504000,
+      "denominators": "independently recomputed from all round traces",
+      "bootstrap": "paired inputs independently recomputed; two primary 97.5% percentile CIs independently regenerated"
+    },
+    "scheduler_d6241": {
+      "seed_count": 20,
+      "rows": 560,
+      "semantic_checks": 100800,
+      "denominators": "independently recomputed from all round traces",
+      "bootstrap": "paired inputs independently recomputed; two primary 97.5% percentile CIs independently regenerated",
+      "cross_dimension_paired_rounds": 33600,
+      "interpretation": "same-seed deterministic semantics/cost validation, not additional independent evidence of scheduling advantage"
+    },
+    "response": {
+      "rows": 120,
+      "seeds": 20,
+      "rejected_model_hash_checks": 1001,
+      "model_retention_evidence": "hash-checked rejected transitions"
+    },
+    "preservation": {
+      "frozen_entries": 7,
+      "tex_sha256": "7b1b3b63c7582b37aeb707d4cbb17acaa691ddf8c27ec4fee7b2c4ec59ff2a1d",
+      "pdf_sha256": "06aa5093a7ea831e6ccd0b6ce11add51d57c870bd70a5982282ca5340e1989bb"
+    }
+  },
+  "scope": "Independent stored-output recomputation and preservation checks, not a full rerun or paper-validity certificate."
+}

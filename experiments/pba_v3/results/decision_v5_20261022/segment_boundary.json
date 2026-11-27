@@ -1,0 +1,42 @@
+{
+  "status": "REPRODUCED",
+  "clients": 4,
+  "segments_checked": 2,
+  "segments_total": 2,
+  "client_receipts_unchanged": true,
+  "old_contribution": -11186,
+  "altered_contribution": 112270,
+  "segment_outcome": "PASS",
+  "all_record_outcome": "PASS",
+  "full_result_replay_outcome": "FAIL_RESULT_REPLAY",
+  "segment_requests": [
+    "bulletin",
+    "snapshot",
+    "segment/0",
+    "record/0/contribution/0",
+    "segment/0/proof/0",
+    "record/1/contribution/0",
+    "segment/0/proof/1",
+    "record/2/contribution/0",
+    "segment/0/proof/2",
+    "record/3/contribution/0",
+    "segment/0/proof/3",
+    "segment/1",
+    "record/0/contribution/1",
+    "segment/1/proof/0",
+    "record/1/contribution/1",
+    "segment/1/proof/1",
+    "record/2/contribution/1",
+    "segment/1/proof/2",
+    "record/3/contribution/1",
+    "segment/1/proof/3"
+  ],
+  "full_findings": [
+    {
+      "slot": null,
+      "outcome": "FAIL_RESULT_REPLAY",
+      "reason": "replay mismatch"
+    }
+  ],
+  "scope": "existing implementation boundary, not a new attack against a client-authenticated segment design"
+}
